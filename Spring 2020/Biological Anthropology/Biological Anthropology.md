@@ -513,3 +513,52 @@
 * Gene therapy unsuccessful so far
 * Hemophilia B: Royal families of Europe:
   * Victoria, Romanovs
+
+### Monogenic Traits
+* One gene -> one phenotypic trait
+* you either have it or you don't 
+
+### Polygenic Trait
+* Multiple genes -> one phenotypic trait
+* most of our traits 
+* Distribution: Bell shaped curve 
+* examples: eye color, hair color, face shape etc.
+
+### Pleiotropy 
+* One gene -> multiple phenotypic traits
+* Example achondroplasia (dwarfism)
+
+### Complex phenotypes 
+* The influence that genotype and environment each have on phenotype is measured in terms of 
+	* Heritability 
+	* Ranges from 0-1 
+
+### Twin method 
+* Estimates heritbaility by comparing concordance rates of indentical twins (MZ - Mono-zygote) and Fraternal twins (DZ)
+* How often dotwins exhibit the same phenotypic trait?
+	* MZ = 100%, DZ = 66%
+
+### California Autism Twins Study 
+* Concordance rates:
+	* 70% MZ, 35% DZ
+* 3-14% chance for different age siblings
+* Environment unique to twins
+
+### Endocrine Disruptors 
+* Found... everywhere
+* DES 
+	* vaginal/breast cancer in daughters 
+* PFOA
+	* Obesity in daughters 
+
+### Congeital changes to male reproductive anatomy 
+* Hypospadias 
+* Bisphenol A
+* "BPA Free"?
+
+### Eugenics 
+* Francis Galton (1883) - "future betterment of the human race"
+* positive eugenics 
+* negative eugenics 
+* California's role
+* "war on the weak"
