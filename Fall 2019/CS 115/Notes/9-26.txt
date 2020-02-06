@@ -1,0 +1,7 @@
+> 9-26 Notes
+  > Lists --- -_-
+    > split() separates strings at spaces and creates a list with each chunk of
+      characters
+        > x = "word1 word2"
+          > print(x.split())
+            > ['word1', 'word2']

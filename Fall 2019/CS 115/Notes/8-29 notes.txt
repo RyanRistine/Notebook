@@ -1,0 +1,35 @@
+> CS 115 Thursday 8-29
+
+  > General Class info
+    > Quiz soon
+    > Tuesday reading day
+      > Don't meet
+
+  > Basic Loops
+    > Loop
+      > A contiguous block of code that can be executed multiple times
+    > Iteration
+      > The act of repeating OR an individual execution of a loop
+        ("this loop has xxx iterations")
+    > Definite Loop
+      > A loop that runs for a specified number of iterations
+
+    > ----------------------------- Example of Loop
+      | for <var> in <iterator>:  |
+      |   <body>                  |
+      -----------------------------
+      > <var> is a variable, called the loop index, and can be anything;
+        usually i or j are used.
+        > a fresh variable, just a counter, used only in for loop
+      > <iterator> is a list of values that you want to go through;
+        can be numbers, strings, list, etc.
+        > Uses zero indexing
+        > can be range(x), range(x,y), [lists], <var>, range(x,y,z), etc.
+          > range (x,y)
+            > will contain x->(y-1)
+              > for i in range(1,11) | This outputs
+                  print(i)           | 1-10
+          > range (x,y,z)
+            > start point, end point, step
+      > <body> contains the code needed to be repeated and often includes
+        reference to the loop index

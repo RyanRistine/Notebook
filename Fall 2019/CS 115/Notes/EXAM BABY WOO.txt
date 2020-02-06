@@ -1,0 +1,8 @@
+> Exam lol
+  > http://cs115.cs.sonoma.edu/exams/cs115_18f_x1.pdf
+  > one 8 1/2 x 11 cheat sheet both sides
+    > error types
+    > += <= // % etc.
+    > math.pi
+  > Remember no arrays :(
+  

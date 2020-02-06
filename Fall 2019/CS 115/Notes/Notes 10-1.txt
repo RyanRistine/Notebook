@@ -1,0 +1,5 @@
+> Notes 10-1
+  > Functions
+   def myprint(a, b, c):
+    print(a, b , c)
+  myprint("Apple", "Orange", Banana)

@@ -1,0 +1,88 @@
+> Europe
+  > 12-4
+    > Basic Concepts:
+      > Nation:
+        > A group of people with a sense of oneness
+          > Don't necessarily have to have land to call their own
+      > State:
+        > a political unit that occupies a precisely defined, permanently
+          populated territory
+          > a state does not necessarily rule a people with a common culture
+        > A part of the earth's land surface which is organized under a
+          government and has boundaries
+          > Refers to a legal/political entity that is comprised of the
+            following: a) a permanent population a defined territory; c) a
+            government; and d) the capacity to enter into relations with other
+            states.
+      > Nation-state:
+        > refers to a nation which has its own political structure for the
+          territory it occupies
+        > Role of the Nation-State in previous time
+          > Heavily regulated the migration of its citizens and labor processes
+            > decided who to let in/out for what purpose and even when migrants
+              expected to return
+              > Mexico's Bracero program as an example
+          > Managed a currency system
+            > Capital flight now creates great challenges
+              > The case of the Russian rubble
+      > Multi-national state:
+        > A state in which more than one nation resides
+          > Iraq, USA, Spain, France
+    > EU Demographic Crisis
+      > Demography:
+        > Study of populations and their characteristics, such as size, growth
+          density, distribution, and other vital statistics
+      > Fertility Rate in Europe is low, and life-expectancy is high
+        > large population of people not contributing to taxes
+      > EU identified demographic crisis as one of the largest challenges
+        Europe will face in the 2020s
+      > Population Change = Fertility - Mortality +/- Migration
+      > Measuring population
+        > Crude Birth Rate
+          > Births/1000 individuals in a year
+        > Crude Death rate
+          > Deaths/1000 individuals in a year
+        > Crude rates may be misleading
+        > Rate of Natural Increase
+          > CBR-CDR
+            > If CBR>CDR population is growing
+          > RNI != population growth if their is significant migration to/from
+            the country
+      > Demographic Situation in Europe
+        > Aging population
+        > Fallen fertility rate
+          > in the early 2000s fertility rate stood 1.2 children per woman
+            > far below the number needed to reproduce the population
+          > The replacement fertility rate is roughly at 2.1 per woman in
+           developed countries
+  > 12-5
+    > Causes of trends in Natural Change
+      > Decline in death and birth rates
+    > Population Pyramid
+      > A graphical illustration that shows the distribution of various age
+        groups in a population in the form of a pyramid
+    > Demographic transition
+      > is the transition from high birth and death rates to low birth and death
+        rates as a country develops from a pre-industrial to an industrialized
+        economic system.
+    > Policy Options
+      >1
+        > Encourage higher TFR/BR
+        > Pro Family supports
+          > cash bonuses, tax relief
+        > Positive Experiences
+          > Sweden, Finland
+      > 2
+        > Obtain greater productivity from exiting population
+          > raise employment rates within population
+          > improve education/skill levels
+          > Raise retirement age
+          > Integrate marginal minority groups
+      > 3
+        > Migration
+          > currently the big issue for EU
+          > reconcile if migration is a solution or problem
+          > EU policymakers see immigration as a benefit due to immirants 
+          > advocate targeting not 'open door'
+            > Young skilled immigrants
+            > more effective integration

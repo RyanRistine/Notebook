@@ -1,0 +1,844 @@
+> GEP 205 Intro to World Regional Geography - Dr. Jean-Yves Merilus
+  > ----------------------------------------------------------------------------
+    > General Course info
+      > About Jean:
+        > From Haiti
+          > Undergrad at Hofstra
+          > Miami University (Ohio) for Masters
+          > UC Davis for Ph.D.
+            > Governing and power dynamic of resource extraction
+
+      > About Course:
+        > Office Hours: Tues, Thurs 2:30-4:30
+        > Do the readings - posted on canvas/in syllabus
+        > Doctor's note for missed exam/test
+        > Regions Covered
+            > North America
+            > Latin America
+            > Sub-Saharan Africa
+        > Reaction Paper
+            > Due at 11:59pm
+              > Reaction and Reflection on subject matter
+              > NOT a Summary
+                > "What do you make of it?"
+              > Uncover what is missing
+                > What is said & what is not said
+        > Exams aren't cumulative
+        > Spatial Variation and Interaction is the main focus rather than:
+          > Human social relation, groups and societies
+            > sociology
+          > The Individual
+            > Psychology
+          > Culture
+            > Anthropology
+          > Resource Allocation
+            > Economic
+          > Government
+            > Political Science
+
+  > ----------------------------------------------------------------------------
+    > 8/20 - Tuesday
+
+      > Geography:
+        > Interdisciplinary field
+          > Focuses on understanding relationships between people, groups,
+            places.
+        > Study of spatial variations that exist amongst regions, places,
+          landscapes, and environments and seeks to understand the forces that
+          make these areas different.
+
+      >Scale:
+        > National
+        > Regional
+        > Local
+
+      > "If you don't know where you're going geography can take you there"
+
+      > Commodity: Something we use & consume and add value to
+
+      > Perception of everything changes from culture to culture; from region to
+        region
+
+      > Economy can mean many things:
+        > American Economy focusing on money
+        > Others focus on sharing
+          > "Economy of affection"
+
+      > Landscape:
+        > Class, racial geography, etc.
+
+      > Globalism:
+        > All places can be interconnected
+
+  > ----------------------------------------------------------------------------
+    > 8/22 - Thursday
+
+      > Food Security
+        > dependent on access, not possession
+          > Ethiopia had a famine because they didn't have enough food to both
+            pay the British and feed themselves.
+          > Some of the most impoverished places have the most agriculture but
+            least access.
+
+      > Historical Development
+        > Developed as a colonial field
+          > at the center of European colonialism depriving some regions of
+            resources.
+              > Facilitated exploitation of resources in Africa, Latin America,
+                and Asia.
+
+      > Eurocentric
+        > Focus on Europe
+
+      > Decolonization of Africa
+        > Started in 1950s
+        > Boundaries created artificially
+          > as a result, over 300 groups in Nigeria
+
+      > Dominant/majority and Subordinate/Minority
+        > Not necessarily based on numbers, instead based on power of group
+
+      > Ethnic Cleansing
+        > One distinct group killing another group
+
+      > Developed - Underdeveloped - Developing
+        > Developed
+          > Wealthy/Prosperous countries
+        > Underdeveloped
+          > Old term, perceived as derogatory
+        > Developing
+          > Less wealthy countries that are making progress
+
+      > Sectors
+        > Primary sector
+          > Primary Goods
+        > Secondary sector
+          > Manufacturing
+        > Tertiary sector
+          > R&D
+
+      > LDCs (Less Developed Countries)
+        > term created to avoid ambiguity created by Underdeveloped and
+          Developing
+
+      > Core - Periphery Model
+          > Emmanuel Wallerstein
+          > Core, Semi-Peripheral, Peripheral
+            > Core = Advanced Industry, R & D
+              > America, Canada, England
+            > Semi-Peripheral = agriculture, Natural Resources, Manufacturing
+              > China, Brazil, Russia, India
+            > Peripheral = Primary Goods
+              > Primary Goods = agriculture, mining, fishing
+            > Haiti, Uganda, Etc.
+
+      > Global North/South
+        > Economically Advantaged countries above the equator are considered
+          to be global North
+        > Countries that are below the equator and economically disadvantaged
+          are considered to be global south
+
+      > First/Second/Third World
+        > First = Capitalist in the Cold War
+        > Second = Communist in Cold War
+        > Third = Neutral
+          > incorrectly appropriated in modern times
+        > Brick Countries
+          > Brazil Russia India China Korea
+          > Countries that recently took off Economically
+          > Emerging economy/market
+
+      > Why is Geography Important?
+        > Informs us about
+          > places & communities we live & work in
+          >  Natural environments & pressures they face
+          > Interconnectedness of the world & its communities
+          > How & why the world is changing at different scales
+          > How individual & societal actions contribute to those changes
+          > Choices that exist in managing our world for the future
+          > the importance of location in business and decision making
+
+      > Two Main Fields in geography
+        > Human/Physical
+
+      > Main Themes/Concepts(lenses)
+        > Globalization
+        > Region
+        > Mobility
+        > Cultural Landscape
+
+  > ----------------------------------------------------------------------------
+    > 8/27 - Tuesday
+
+      > Globalization
+        > Very Contested
+          > Three schools of thought regarding Globalization
+                > Hyperglobalist
+                  > All countries benefit from Globalization
+                    > Claims that globalization defines a new epoch of human
+                      history in which the traditional nation-states has become
+                      unnatural
+                    > The world is moving towards a global market and global
+                      prices
+                    > National Economies became subsumed and rearticulated into
+                      the international system
+                      > The key factors become the transnational corporation
+                        > A more complex economic system emerged
+                > Skeptics
+                  > Globalization doesn't benefit developing countries
+                    > Current international economy is not fully open and
+                      integrated
+                      > true globalization must imply a fully integrated world
+                        Economy
+                    > Globalization is marginalizing the countries of the global
+                      Periphery
+                      > global economy provides growth for core economics &
+                        semi-Periphery
+                        > but a whole series of economic and political factors
+                          retard the economic growth of poor countries,
+                          specially in Africa
+                    > Labor, as a crucial economic factor remains relatively
+                      immobile compared to capital
+                  > Emphasize the enduring power of national governments not
+                    necessary MNCs
+                    > Role of states is crucial role in facilitating the
+                      process of economic interaction at the global scale
+                      > Can't leave it to MNCs to protect social economic
+                        well-being
+                > Transformationalist
+                  > sees globalization as a powerful transformative force
+                    > is responsible for a massive shake out of societies,
+                      different traditions, economies, institutions of
+                      governance, and world order
+                  > The direction of globalization remains uncertain
+                    > there is no certainty of where globalization might be
+                      leading to and the kind of world order that might emerge
+                      as a result
+                  > Also Emphasizes the continuation of global divergence and
+                    differences among and within countries
+        > A process or set of processes which embodies a transformation in the
+          spatial organization of social relations and transactions, generating
+          transcontinental or interregional flows and networks of activity,
+          interaction and power.
+            > Key words:
+              > Social relations
+              > Transformations
+              > transactions
+              > flows
+                > volume of activity
+        > Globalization has decreased both the time and distance goods, or ideas
+          must travel to reach the world
+        > Time Distance Decay
+          > when certain technological practices (telephone, internet) bring the
+            world closer
+            > makes diffusion happen faster
+      > Region
+        > Defined as a grouping of similar places or places with similar
+          characteristics
+          > a "spatial stereotype"
+            > E.G. The Caribbean ( White sand Beaches)
+          > Helps organize information, compressing it into units of spatial
+            similarities
+            > Through regions, geographers explore how and why places alike or
+              different
+            > What makes regions different
+          > Geography investigates differences among & within Regions
+            > region is used as a concept to map spatial differences
+        > Types of Regions
+          > Formal Region
+            > Region w/ 2 or more similar attributes
+              > language, income, religion, elevation, climate, agricultural
+                crop, etc.
+            > examples
+              > states
+              > Countries
+              > cities
+              > wealthy (or poor) parts of cities
+            > all formal regions are based on measurable data
+            > Known for a specific "thing" or marked by a degree of homogeneity
+          > Functional Region
+            > Unified by an activity such as economic or Political
+              > e.g. America's Corn Belt
+                > organized around a focal point * is tied to central point by
+                transportation, economics, and political or communication
+                systems
+              > defined by a system of interactions
+            > Examples
+              > DFW is a functional region because the two cities are linked by
+                the airport
+              > Cocaine Networks are functional regions
+          > Vernacular or Perceptual Region
+            > A place people believe exists as part of their cultural identity
+              > A perceptual region is defined by people's feelings and
+                attitudes about an area
+                  > ex. The Midwest; the periphery etc.
+              > Are more likely than other kinds of regions to change over time
+              > Are also frequently based on stereotypes, influenced by travel,
+                media, reading, films, and conversations
+            > Ex. The Rust Belt
+        > Why Region?
+          > Regions are part of human creations:
+            > Used to manage and interpret the complexities of the earth's
+              surface
+            > Helped us understand and recognize the arrangements of people,
+              places and environment
+                > Our lives are structured within regions
+
+  > ----------------------------------------------------------------------------
+    > 8/29 - Thursday
+
+      > Mobility
+        > Is a concept used to understand variation and the rapid changes around
+          the world, whether in culture, politics, race, language, etc...
+          > Helps geographers understand how and why different cultural elements
+            move through space and locate in particular setting.
+            > for instance: How do people happen to speak Kreyol in Haiti.
+        > At the center of Colonialism, Migration
+          > When people migrate, they bring their cultures with them
+            > Food, religion, music, clothes, customs, language
+            > culture is learned
+        > Important to Mobility: Migration
+          > Migration is the movement of people from one area to another for the
+            purpose of taking up permanent or semi-permanent residence, usually
+            across a political boundary
+        > Outcomes of Mobility and Migration
+          > Cultural Markers
+            . Structures or artifacts that reflect the cultures and histories of
+              those who constructed or occupied them
+          > Diffusion (Five main types)
+            > Relocation diffusion
+              > People with particular ideas/practices migrating from one area
+                to another
+                  > Political Ideas, Economical Ideas, etc.
+            > Expansion diffusion
+              > Ideas and practices spread from one point to other areas of a
+                population
+            > Hierarchical diffusion
+              > When Idea begins from a core point to peripheral areas; or from
+                one important person to those of lesser importance
+              > Sometimes the inverse happens; bottom up changes
+                > I.E. Arab Spring
+            > Contagious diffusion
+              > A type of diffusion in which ideas spread by person to person
+                similar to diseases
+                  > Hierarchical and contagious diffusion often times reinforce
+                    each other
+            > Stimulus diffusion
+              > When only part of a culture is taken elsewhere and adapted
+
+  > ----------------------------------------------------------------------------
+    > 9/3 Tuesday
+
+      > Gen Info
+        > Next Map Quiz: Latin America
+      > Cultural landscape
+        > Is the visible material expression of human-past and present
+          > all the features that together make up our common culture
+            > (e.g. the industries organizations institutions, infrastructure
+              etc. )
+          > Focuses on the appearance of areas, the assemblage of objects which
+            constructed those appearances, and the areas themselves
+        > Is a marker of cultural values, attitudes and symbols
+          > (e.g. church; cemetery, religious cross, etc.)
+        > How is globalization transforming the cultural landscape?
+          > Important Point of Emphasis in this Class
+        > Structure V Agency
+          > Structure is in reference to the dominant discourse
+            > Rules and regulations that are in place to shape our behaviors
+          > Agency is the individual responses to those rules and regulations
+            > How do we react to the structures imposed
+              > Passive, Active
+        > Tells about the human condition throughout the world and history
+        > How humans interact with nature
+        > where there is tension and peace
+        > where people are rich and poor
+        > reflects the most basic human needs
+        > Acts to bring people together or keep them apart
+      > Physical Geography
+        > Focuses Upon the character of, and processes shaping the land-surface
+          of Earth and its envelope
+        > Emphasizes the spatial variations that occur and the temporal changes
+          necessary to understand the contemporary environments of the Earth
+        > Three Main sub-disciplines
+          > Climatology
+            > The scientific study of the climate
+          > Biogeography
+            > The study of how species are scattered across the planet, and
+              how they got that way (factors driving that process: e.g.
+              drought, cold, weather patterns etc.)
+          > Geomorphology
+            > the study of the nature and history of landforms and the
+              processes which create them (e.g. earthquake, drought,
+              hurricanes, etc.)
+          > Climatology, Biogeography, Geomorphology shaped our lives
+            > Our houses are designed based on the climate where we live.
+            > In earthquake zones, we build earthquake resistant buildings
+            > Farmers make plans based on the length of the growing season from
+              the last killing freeze in the spring to the first freeze in the
+              fall
+            > We dress and pack based on weather conditions
+        > Why study physical geography?
+          > Human settlement and food production are closely linked to local
+            patterns of weather and climate
+            > People in different parts of the world adapt to weather and
+              climate in different ways
+            > Climate links us together in our globalized economy
+              > Tourism
+              > Opportunities for some
+              > Hardship for Others
+              > Challenges in growing food
+          > Global Warming
+            > Human activities connected with economic development and
+              industrialization affect the world's Climate
+                > Anthropogenic (human-caused) pollution increases the green
+                  house effect
+            > Causes of Global Warming
+              > Natural greenhouse effects make the earth warm enough to support
+                life
+              > Beginning with Industrial Revolution in Europe and North
+                America, greenhouse gases have increased dramatically, mostly
+                from burning fossil fuels
+            > Climate Change
+              > One of the biggest threats facing our contemporary World
+                > A rise in global temperature
+                > More moisture in the atmosphere intensifies rain associated
+                  with hurricanes
+              > Intensifies tropical storms and hurricanes particularly in
+                the Caribbean
+                  > storm surge is made worse by sea level rise
+              > Larger Implications
+                > Economic Transformation
+                  > Many smaller nations depend on one Commodity
+                  > climate change can affect the production
+                > Destruction of livelihood
+                > Outmigration
+          > Plate Tectonics
+            > The theory that the outer layer of the Earth (the lithosphere) is
+              broken into several plates, and these plates move relative to
+              one another, causing the major topographic features of Earth (e.g.
+              Mountains , oceans) and most earthquakes and volcanoes
+            > 7 tectonic plates
+            > Convergence = Mountains
+            > Subduction = Volcanoes
+
+  > ----------------------------------------------------------------------------
+    > 9-5
+      > North America
+        > Canada, US, ~~Mexico~~
+          > Mexico = North America economically, South America culturally
+        > Cultural Geography
+            > What is Culture?
+              > Cultural elements
+                > traditions
+                > music
+                > Beliefs
+                > Ethnicity
+                  > A group of people that have a common culture
+                  > There can be many ethnicities within a single Nation
+              > A set of learned beliefs, practices and values that serves to
+                shape individuals and collective behaviors
+
+  > ----------------------------------------------------------------------------
+    > 9-12
+      > "I left my USB in the dorm and kinda forgot my formatting conventions
+        edition"
+
+      > Racial Formation
+        > Process through which racial categories are created, destroyed, and
+          changed
+      > Power
+        >Thomas Theorem
+            > If you define something as real then it becomes real
+            > Race is an example of this, those who have power are the ones who
+              make it real
+
+            > Those in power define groups of people in a certain way that
+              depends on a racist social culture
+                > White people & Native Americans (Trail of Tears, etc.)
+            > dominate vs subordinate isn't defined by numbers but by Power
+              > numbers != power
+      > Legal Definition of Race
+        > Alabama and Arkansas defined anyone with one drop of "negro" blood
+                as Black; Florida had a one-eighth rule; Georgia referred to
+                "ascertainable" non-White blood; Indiana used a one-eighth rule;
+                 Kentucky relied on a combination of any "appreciable mixture"
+                 of Black ancestry and a one-sixteenth rule
+                  > Race changes definition so much there is no real definition
+                    it is just a social construct
+      > Ethnicity
+        > refers to a social group that shares a common and distinctive culture
+          > culture is a set of learned beliefs and practices
+            > Religion, language, food, music, etc.
+        > Ethnic group
+          > A group set apart based on culture or national origin
+      > Both Race and Ethnicity are socially constructed
+        > Boundaries are constantly changing
+        > They are just different boundaries of inclusion and exclusion, one
+          based on phenotypical traits and one based on the culture of a
+          person(s)
+        > Civil wars are often ethnic wars
+
+      > Minority
+        > a group of people who because of their physical or cultural
+          characteristics are singled out from other in the society in which
+          they live for differential and unequal treatment and who there fore
+          regard themselves as objects of collective discrimination
+      > Dominant of Majority Group = racial or ethnic group with the greatest
+        power and resources in a society
+      > Subordinate group = another word for minority groups
+      > Prejudice = a negative attitude, thought or belief against an entire
+        category of people, specifically a minority groups
+        > Prejudice is often expressed through the use of ethnic slurs
+          > speaking about someone in a condescending way "Wow you did good on
+            that test for a Mexican"
+          > prejudice belief leads to categorial rejection
+      > Discrimination = is the denial of opportunities and equal rights to
+        individuals and groups because of prejudice or for other arbitrary
+        reasons
+        > Unlike prejudice, discrimination is action, it is prejudice in action
+        > Refers to actions that exclude all members of a group from certain
+          rights opportunities etc.
+        > Institutional
+          > one Institution is discriminatory
+        > Systemic
+          > Multiple linked institutions are discriminatory (groups don't have
+            to be related)
+        > Cumulative
+          > Built over time, passed down through families
+        > Reverse
+          > members of minority discriminating against members of Majority
+          > Institutional
+      > The Creation of Subordinate group
+        > Conquest, colonialism
+        > Annexation
+          > The case of the Mexicans
+        > Traveling and tourism
+        > Migration
+          > Emigration
+            > Leaving
+          > Immigration
+            > Entering
+        > Gordon's theory of assimilation
+          > Five stages of assimilation
+            > Structural assimilation
+              > The entry of members of an ethnic minority into primary groups
+            > Cultural assimilation
+              > The minority group's adoption of the cultural patterns of the
+              host society
+            > Identification assimilation
+              > The development of a sense of peoplehood based exclusively on
+                the host society
+                > close, personal relationships, e.g. social clubs, families,
+                  etc.
+            > Marital assimilation
+              > Intermarriage
+            > Secondary Structural assimilation
+              > Equal status relationship in the public sphere
+          > Is a majority ideology in which A+B+C=A
+          > Imposes ethnocentric and patronizing demands on minority peoples
+            struggling to retain their cultural and ethnic integrity.
+          > entails an active effort by the minority group individual to shed
+            all distinguishing actions and beliefs in order to be accepted.
+              > The person must forsake his or her cultural traditions to become
+                part of a different culture
+                > Englo-community
+
+      > Contentions have caused many scholars to advance other terms:
+        > Acculturation
+          > Becoming competent in the ways of the host society while continuing
+            to be identified by others as a member of a minority group
+        > Melting Pot
+          > implies a situation in which diverse racial or ethnic groups form a
+            new creation and a new culture
+        > Multiculturalism
+          > Is "the acknowledgement and promotion of cultural pluralism"
+            > celebrates and seeks to protect cultural variety, for example,
+              minority culture and language
+            > Promotes cultural identities that are derived from distinctive
+              group identities
+          > Takes attention away from the real issues of racism in the United
+            States
+            > makes racism more difficult to acknowledge
+              > Continues to preserve the familiar cultural fabric of America's
+                society as White
+                > groups who are recognized as culturally different must still
+                  adhere to the norms and values of the dominant culture
+          > Emphasizes cultural diversity as a way of expressing cultural
+            particularities and pride
+            > avoids issues of race and racism
+            > Does not solve the problem of cultural marginality
+          > Promotes differences that do not threaten
+          > Does not signal economic redistribution
+          > fails to examine issues of class, gender, age, religions, and sexual
+            differences within racialized groups
+
+  > ----------------------------------------------------------------------------
+    > 9-19
+      > Population Clusters
+        > Urbanization and cultural pluralism
+        > 327.2 million dispersed population with concentrations along the
+          coasts
+        > majority of canadian population lives 300 km from the border
+        > the continental population living east of the realm's middle line
+      > Diverse physiographic Regions
+        > each exhibit natural landscape homogeneity
+        > well defined
+      > Some high-relief Regions
+        > Pacific Mountains
+        > Rocky Mountains
+        > Appalachian Mountains
+      > Lowland Regions
+        > Great plains
+        > interior lowlands
+        > various coastal plains
+      > Gulf-Atlantic Coastal plains
+        > lots of rivers, some areas barely above sea level
+      > Piedmont
+        > Foothills to the east of the Appalachian
+        > Early settlements often were made at the fall line to take advantage
+          of water power & because it was a break-in bulk Point
+      > Appalachian Highlands
+        > Low, old mountain range
+        > no major impediment to transportation
+        > Resource are - coal, iron ore etc.
+      > Interior Highlands
+        > A dissected plateau known as the Ozarks
+      > Interior lowlands
+        > Much of the best agricultural land
+      > Canadian Shield
+        > oldest rock formations in North America
+        > The "anchor" of the North American continent
+        > Very thin soil - developed after the last glacial Advance
+      > Arctic coastal plain
+        > cold area
+        > Permafrost
+      > Great Plains
+        > semi arid area gets drier from east to west
+        > Wheat growing areas of US and Canada
+      > Rocky Mountains
+        > North-South orientation affects climate
+      > Intermontane Basins & plains
+        > Rather Dry
+        > North/south oriented Between Rockies and Sierra Nevada ranges
+      > Pacific Mountains and Valleys
+        > First interruption of westerly winds
+        > Three large, useful Valleys
+          > California's central Valley
+          > Cowlitz-Puget Sound lowland of Washington and Oregon
+          > Lower Frazer Valley in British Columbia
+      > climate
+          > Very diversified ranging from continental humid to sub tropical
+          > large tracks of land are suitable for agriculture
+          > Relatively simple weather system:
+            > Varies from west to east
+            > Influenced by air masses moving from artic and from the gulf of
+              Mexico
+            > Humid east experiences weather extremes due to frigid Arctic and
+              subtropical seasonal air masses
+          > The southeast section of the United States
+            > A high precipitation level
+            > Result of movements of air masses from the gulf of Mexico
+            > Subject to tropical storms coming from the South Atlantic
+      > Two great drainage systems between the Rockies and Appalachians
+          > Great Lakes and St. Lawrence River
+          > Mississippi/Missouri rivers into a delta on the Gulf of Mexico
+          > Both have been modified by human engineering
+            > Dams
+            > Canals
+            > Irrigation
+      > Indigenous North Americans
+        > Settled North America more than 14,000 years ago
+          > Via Land bridges
+        > Formed hundreds of nations living in adaptations with their
+          physiographic regions
+        > Devastated by arrival and expansion of the Europeans
+        > Displaced from their homelands
+        > Native American nations relegated to impoverished and isolated
+          reservations
+      > European Colonies
+        > Current population geography a legacy of French and British settlement
+        > Diversified local economies (e.g. plantation system in the south)
+        > American Revolution and opening of the west
+        > Interior lowlands favorable to farming and settlement
+        > Political acquisition of western territories made new states by
+          purchase or concession
+      > The Anglo-American cultural space
+        > Prominence of English institutions
+        > latin America (spanish and Portuguese cultural origin)
+        > A few exceptions:
+          > French Canada, Hawaii, US/Mexico border regions, Southeast Florida
+            First nations and the black population
+        > Immigration is changing this space
+        > English remains the language of power and business
+          > Language Franca
+          > Facilitates Mobility
+      > Religion
+        > Christianity dominant in the U.S.
+        > Regional denomination diversity
+        > Religious tolerance for most; Islam a contemporary exception
+      > similarities between the US and Canada
+        > Internal political Geographies
+          > Dominated by straight-line boundaries
+          > Elsewhere, physical features mark boundaries
+          > Result delimiting prior to settlement
+          > The Canada US border
+            > Settlements and natural features in the east (e.g. St. Lawrence/
+              Great Lakes)
+            > Straight line in the west (49 degrees latitude line)
+      > Uneven distribution of natural resources
+        > Resource rich states benefit from high commodity prices while other
+          may be negatively impacted
+        > E.g. Texas/Alberta vs California/Ontario
+        > The situation reverses during a commodity bust
+      > water
+        > Relatively well-supplied
+        > Water based vs irrigation-based agriculture
+        > Concerns for future supply:
+          > Arid Southwest and Great Plains rely on other areas for water
+          > Overuse of ground water aquifers lowers water table
+      > Abundant mineral reserves
+        > Fossil fuels or oil, natural gas and coal energy sources
+        > Oil
+          > Not enough to satisfy demand so imports are necessary
+          > Oil dependence has been an enduring nation policy issue
+          > Substantial growth in domestic supply due to new technologies such
+            as tar sands and oil shale
+          > Alternative energy sources, especially nuclear power, are not well
+            welcomed but growing fast
+        > Natural Gas
+          > usually associated with Oil
+          > mainly used for power generation
+        > coal
+          > Among the world's largest reserves
+
+  > ----------------------------------------------------------------------------
+    > 9-24
+      > Urbanization and the spatial economy: Industrial cities
+        > Industrialization and Urbanization in tandem
+        > New Urban system
+          > cities specialized in raw materials or Manufacturing
+          > Interconnected by growing transportation network
+          > American Manufacturing Belt a.k.a. rust belt
+            > Emerged as foundation of the North American core
+            > Mostly linked wit steel and the automotive sector
+            > Ohio, Western Pennsylvania, Detroit
+          > Shifting spatial economy
+            > Primary sector
+              > Agriculture, Mining, Fishing, Raw materials
+              > In decline due to mechanization
+            > Secondary sector
+              > Manufacturing, transformation of raw materials
+            > Tertiary sector
+              > Research and development
+              > Expanding to contain retail and wholesale
+            > Quaternary Sector
+              > Information, research, management
+            > Quinary Sector
+              > Executive decision makers
+        > Rail Transportation
+          > Initiated an integrated continental-scale economy.
+          > Rail Predominantly for cargo, not passengers
+          > Intermodal cargo from ships to trucks and rail
+        > transcontinental railroad (Completed in 1869)
+          > From New York to San Francisco
+          > Journey was reduced from 6 months by trail to 1 week by train
+          > The industrial east could access to the resources of the West
+        > Decline and revival
+          > Strong decline from then 1950s; competition from the interstate
+          > Revival since the 1980s with intermodal cargo.
+          > Revival as shipping costs decline and international trade grows
+          > New boom requires adding to the rail system
+        > Transportation and communication innovations increased
+          interconnectedness and mobility.
+        > Evolution of the outer city
+          > Residential suburbia had its own businesses and industries,
+            entertainment, and other amenities
+          > Relative decline in the central city
+          > Car dependent suburbs
+        > Coincided with deindustrialization
+          > loss of manufacturing jobs meant opportunities were found in
+            suburbia
+          > Those who could, moved out of the inner city
+        > Information Economy
+          > For some cities helped recovery from deindustrialization and high
+            employment
+          > Rising employment in tertiary and quaternary service-based sectors
+          > information-based economic activity is fond in established CBDs on
+            urban fringes or in suburbs
+          > Silicon valley: world's leading center for computer research and
+            development
+          > Favorable combination of locational dynamics
+              > Amenities (quality of life)
+              > Research Institutions
+              > Telecommunications
+      > Urbanization and the spatial economy: Polycentric Cities
+        > Multiple centers
+          > CBD (Central business district)
+          > Outer cities have their own central business districts
+        > Gentrification
+          > land-use changes and urban neighborhood restoration
+          > raises property values and taxes
+          > Displaces former low income resident with newer more affluent ones
+        > Megaregions
+          > A system of connected cities
+          > Great Lakes/North East/Northern & Southern California etc.
+          > Often along a corridor
+      > The making of a multicultural realm: The virtues of mobility and
+        Immigration
+        > Changing population
+            > Center of US population is moving southward to the sunbelt aided
+              by air-conditioning
+        > Other major migrations
+          > Urbanization
+          > Rural to urban movement of African Americans.
+          > Suburbanization and beyond
+          > Return of African Americans to southern Cities
+            > reverse migration of people making an effort to find their roots
+          > Steady influx of global immigrants
+          > transnational migration
+            > when migration process is influenced by other actors
+        > Both United States and Canada are products of international migration,
+          or permanent relocation
+        > Migration decision
+          > Depends on perception, information, and distance
+          > Push and pull factors motivate or attract
+        > Destination
+          > North America is a "land of opportunity"
+          > immigration is 40 percent of growth
+          
+  > ----------------------------------------------------------------------------
+    > 9-26
+      > The Making of a Multicultural Realm: The Challenge of Multiculturalism
+        > Growing Pluralism
+          > transnationalism beyond national borders:
+            > The Hispanic population in the US is half of Mexico
+            > More African Americans than in Kenya
+            > Miami: second largest Cuban city after Havana
+            > Montreal: second largest French city after Paris.
+        > Melting Pot
+          > Blended cultures
+          > Contested by increasing ethnic and cultural complexity.
+        > Mosaic culture
+          > Heterogeneous complex of separate, distinct groups
+        > In the United States
+          > Sufficient immigrant numbers allow the creation of a durable
+            society within the national society
+          > Challenge of "undocumented" immigration and debate over border
+            security are political hot topics.
+        > In Canada
+          > Critical labor shortages provide context for immigration policies.
+          > Policy is balanced according to employment and demographic needs in
+            various regions.
+        > immigration
+          > Benefits
+            > Part of the region's history, the "melting pot"
+            > Fuels economic growth
+            > Not just unskilled but also skilled and educated
+            > Native population is aging and immigration brings youth
+            > illegal immigration should be curbed
+          > Limitations
+            > High level of legal immigrants is unsustainable
+            > Demands for social services strain state budgets
+            > Immigrants displace working class Americans by accepting lower
+              wages
+            > Amnesty for illegal immigrants attracts more; a security issue

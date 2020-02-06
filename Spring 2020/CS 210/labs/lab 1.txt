@@ -1,0 +1,29 @@
+Worksheet Lab 1 - Ryan Ristine
+1. Running the command "echo -e 'Hello\nWorld'"
+will output the phrase "Hello World" with a new
+line between Hello and World.
+
+The -e option allows for interpretation of
+backslash escapes
+
+the "\n" creates a new line between "Hello" and
+"World"
+
+When the single quotes are removed the command
+prints "HellonWorld", the new line is not
+interpreted
+
+2.date -u
+
+3. the hostname command is used to set or view
+your system's hostname
+
+output on the temp lab server is "lab01"
+
+output when not on the temp server is the
+name of my machine, "Ryan-Ristine-Laptop"
+
+adding the -i option prints the machine's ip
+address instead of the name
+
+4. echo -e 'Hello\nWorld'

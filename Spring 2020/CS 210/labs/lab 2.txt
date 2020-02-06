@@ -1,0 +1,12 @@
+1. ../../../var/log/mail
+2. /usr/include/boost/math
+3. gofmt
+4. lib
+5. README
+6. favicon.ico
+7. mkstub
+8. vmlinuz-4.18.19-100.fc27.x86_64
+9. cp -r vehicles vehicles_backup
+10. mkdir -p transport/bicycles/mountain transport/cars/pickup transport/cars/sedan/compact transport/cars/suv transport/jet/cargo transport/jet/fighter
+11. mv durango transport/cars/suv , mv prius transport/cars/sedan , mv stumpjumper transport/bicycles/mountain
+12. mv prius ../pickup/fseries

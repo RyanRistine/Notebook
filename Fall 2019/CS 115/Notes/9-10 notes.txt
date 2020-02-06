@@ -1,0 +1,15 @@
+> Notes 9-10
+   > Gen Info
+    > Exam soonish - check piazza
+  > If statements
+    > Yes or no, true or false
+    > Decision making power to the computer
+    > boolean (boo-lee-in) expression
+      > yes or no
+      > Any expressoin that returns an answer true/false
+      > boolean constants: True and false
+      > ex: (x>7) or (y<12) or (fruit == 'orange')
+      > relational operators: < > <= >= == !=
+      > logical operators: not and or
+      > if (<boolean expression>):
+          <body>
