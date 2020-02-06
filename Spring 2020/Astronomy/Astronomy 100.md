@@ -169,3 +169,51 @@ in science a theory is not he same as a hypothesis, rather:
   | ------------------------|--------------------------------------------------------|
   |Overreliance on anecdotes|"Practicing yoga daily helped this woman lose 300lbs"   |
   |-------------------------|--------------------------------------------------------|
+## Lecture 2/6
+
+### Moon Topography 
+* Highlands:
+	* More Craters, older (~4.4 Billion Years)
+* Mare:
+	* Younger, less craters, dark basalt, volcanic in origin
+
+### The Copernican Revolution
+
+#### How Copernicus, Tychom and Kepler challenged the Earth-centered model of the Universe
+
+* Copernicus (1473-1543)
+	* Proposed sun-centered model
+	* Used model to determine layout of solar system, measured distances in AU, Astonomical Units: the distance between the Sun and the Earth
+		* Model wasn't very accuracte in terms of predicting planetary positions 
+* Tycho Brahe (1546-1601)
+	* Complied the most accurate naked eye measurements ever amde of planetary positions at the observatory he built 
+	* Hired Kepler, who used Tycho's obsercations to discover the truth about planetary motion
+* Johannes Kepler (1571-1630)
+	* First tried to match Tycho's observations with circular orbit
+	* Found an 8-arcminute discrepancy which lef him eventually to make a model of planetary orbits using ellipses
+##### Keplers 3 Laws
+* 1. The orbit of each planet around the sun is an ellipse with the Sun at one focus
+	* very nearly circular but not quite
+* 2. As a planet moves around its orbit it sweeps out equal areas in equal times
+* 3. More distant planets orbit the Sun at slower average speeds obeying the relationship p^2 = a^3 
+	* p = orbital period in years
+	* a - avg. distance in AU
+	* Planets closer to the sun travel faster than those farther from the sun
+
+* Galileo (1564-1642)
+	* Overcame major objections to copernican view
+		* Key objections were
+			* 1. Earth could not be moving because objects in air would be "left behind"
+			* 2. Non-circular orbits are not "perfect" as heavens should be
+			* 3. All objects orbit the Earth, the "just because" argument 
+		* Got in lots of legal trouble from angrry conservative catholics because of his claims 
+	* Overcoming the first objection
+		* Galileos experiments showed that objects in air would stay with a moving Earth
+			* Aristotle thought all objexts naturally came to rest 
+			* Galileo showed they sat in motion (wow like Newton's law)
+	* Overcoming the second objection 
+		* Proved that not all cellestial bodies are perfect, for example the moon is really not perfect, craters etc. 
+	* Overcoming the third objection
+		* proved that not all objects orbited Earth by observing the moons of Jupiter 
+	* Catholic church was really mad with him so they put him under house arrest for not recanting his claims 
+		* they finally unbanned his book in 1824 and didn't fully vindicate him until 1992 
