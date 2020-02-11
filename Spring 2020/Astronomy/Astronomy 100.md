@@ -232,4 +232,41 @@ in science a theory is not he same as a hypothesis, rather:
 * Momentum = mass * velocity
 * A **net force** changes momentum, which generally means an acceleration (change in velocity) 
 	* A force is uaully a change in direction and/or speed  
-
+* How is mass different than weight 
+|Mass   |The Amount of matter in an object   |
+| ----- | ---------------------------------- | 
+|Weight |The *force* that acts upon an object|
+* You are weightless in free-fall
+* Why are astronauts weightless in space?
+	* There *is* gravity in space
+	* Weightlessness is due to a constant stae of free-fall
+#### Weightlessness
+* Astronauts and other objects inside spacecraft don't fall to the floow of the spacecraft
+* The astronauts are accelerating towards Earth, but they are not accelerating towards the floor of the spacecraft
+#### How did Newton change our view of the universe?
+* Isaac Newton (1642-1727) 
+* Realized the same physical laws that operate on Eath also operate in the heavens
+	* One *Universe*
+* Discovered laws of motion and gravity
+* Much more: Experiments with light; first reflecting telescope, calculus... 
+#### Newton's 3 Laws of Motion
+* **Newton's First law of motion**: An object moves at a constant velocity unless a net force acts to change its speed or direction 
+	* *"An object in motion stays in motion, unless acted on by an outside force"*
+* **Newton's Second law of motion**: Force = mass * acceleration
+* **Newton's Third law of motion**: For every force, there is always an *equal and opposite* reaction force
+	* *"For every action there is an equal and opposite reaction"*
+	* Example: Wall-E flying around in space with a fire extinguisher
+#### Light and Telescopes
+##### How do light and matter interact?
+* Emission
+	* Light leaving matter
+* Absorption
+	* Light getting absorbed by matter
+	* Can be observed by a lack of light being where there otherwise should be light
+* Transmisison
+	* Transparent objects transmit light
+	* Opaque objects block (absorb) light
+* Reflection or Scattering
+	* Something that reflects will look *"Shiny"* whereas most things that are colorful without being shiny are scattering
+		* example of reflecting: Mirror reflects light in a particular direction; why you can see different "perspectives" in a mirror
+		* example of scattering: Projector screen, scatters same(relatively) light in all directions
