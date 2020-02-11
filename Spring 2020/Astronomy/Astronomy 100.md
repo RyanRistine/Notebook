@@ -232,10 +232,11 @@ in science a theory is not he same as a hypothesis, rather:
 * Momentum = mass * velocity
 * A **net force** changes momentum, which generally means an acceleration (change in velocity) 
 	* A force is uaully a change in direction and/or speed  
-* How is mass different than weight 
-|Mass   |The Amount of matter in an object   |
-| ----- | ---------------------------------- | 
-|Weight |The *force* that acts upon an object|
+* How is mass different than weight
+ 
+| Mass  | The Amount of matter in an object   |
+| ----- | ----------------------------------- | 
+| Weight| The *force* that acts upon an object|
 * You are weightless in free-fall
 * Why are astronauts weightless in space?
 	* There *is* gravity in space
