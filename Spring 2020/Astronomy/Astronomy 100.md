@@ -164,11 +164,7 @@ in science a theory is not he same as a hypothesis, rather:
   scientific truth
 
   |Sign of Pseudo-Science   |Example                                                 |
-  |-------------------------|--------------------------------------------------------|
   |Exaggerated Claims       |"Three simple steps will change your love life forever!"|
-  | ------------------------|--------------------------------------------------------|
-  |Overreliance on anecdotes|"Practicing yoga daily helped this woman lose 300lbs"   |
-  |-------------------------|--------------------------------------------------------|
 ## Lecture 2/6
 
 ### Moon Topography 
