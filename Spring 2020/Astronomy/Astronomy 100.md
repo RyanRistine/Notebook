@@ -163,11 +163,9 @@ in science a theory is not he same as a hypothesis, rather:
   mistakenly regarded as based on scientific method or having the status of
   scientific truth
 
-  | ----------------------- | ------------------------------------------------------ |
   |Sign of Pseudo-Science   |Example                                                 |
   | ----------------------- | ------------------------------------------------------ |	
   |Exaggerated Claims       |"Three simple steps will change your love life forever!"|
-  | ----------------------- | ------------------------------------------------------ |
 ## Lecture 2/6
 
 ### Moon Topography 
