@@ -163,8 +163,11 @@ in science a theory is not he same as a hypothesis, rather:
   mistakenly regarded as based on scientific method or having the status of
   scientific truth
 
+  | ----------------------- | ------------------------------------------------------ |
   |Sign of Pseudo-Science   |Example                                                 |
+  | ----------------------- | ------------------------------------------------------ |	
   |Exaggerated Claims       |"Three simple steps will change your love life forever!"|
+  | ----------------------- | ------------------------------------------------------ |
 ## Lecture 2/6
 
 ### Moon Topography 
@@ -226,4 +229,9 @@ in science a theory is not he same as a hypothesis, rather:
 * Acceleration: Any change in velocity unit of speed/time (m/s<sup>2</sup>)
 * The Acceleration of Gravity (g)
 	* All falling objects accelerate at the same rate (not counting friction of air resistance)
-	* On Earth G = 9.8m/s<sup>2</sup> speed increases 10m/s with each second of falling. 
+	* On Earth G = 9.8m/s<sup>2</sup> speed increases 10m/s with each second of falling.
+#### Momentum and Force 
+* Momentum = mass * velocity
+* A **net force** changes momentum, which generally means an acceleration (change in velocity) 
+	* A force is uaully a change in direction and/or speed  
+
