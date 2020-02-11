@@ -216,4 +216,18 @@ in science a theory is not he same as a hypothesis, rather:
 	* Overcoming the third objection
 		* proved that not all objects orbited Earth by observing the moons of Jupiter 
 	* Catholic church was really mad with him so they put him under house arrest for not recanting his claims 
-		* they finally unbanned his book in 1824 and didn't fully vindicate him until 1992 
+		* they finally unbanned his book in 1824 and didn't fully vindicate him until 1992
+
+## Lecture 2/11
+
+### Laws of Motion: Understanding Motion, Energy, and Gravity
+
+#### How do we describe motion?
+* Speed: Rate at which object moves 
+	* Speed = distance/time
+* Velocity: Combination of speed and direction
+	* 10 m/s, due east 
+* Acceleration: Any change in velocity unit of speed/time (m/s<sup>2</sup>)
+* The Acceleration of Gravity (g)
+	* All falling objects accelerate at the same rate (not counting friction of air resistance)
+	* On Earth G = 9.8m/s<sup>2</sup> speed increases 10m/s with each second of falling. 
