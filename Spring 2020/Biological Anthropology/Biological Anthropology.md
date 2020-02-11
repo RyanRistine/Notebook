@@ -485,13 +485,9 @@
       * somehow protects against super extra deadly Malaria
 
 ##### Punnett Squares
-| --- | ------- | ------- |
 | --- |HbA      | HbS     |
-| --- | ------- | ------- |
 | HbA | HbA/HbA | HbA/HbS |
-| --- |-------- | ------- |
 | HbS | HbA/HbS | HbS/HbS |
-| --- | ------- | ------- |
 
 * If both parents carry one copy of recessive, there's a 25% child will be born
   with recessive trait
@@ -562,3 +558,104 @@
 * negative eugenics 
 * California's role
 * "war on the weak"
+
+## Chapter 5 - 2/11
+
+### Learning Objectives 
+* Explain how natural selection works, and distinguish between the results of directional and stablilizing selection
+* Give an example of gene flow
+* Describe hor founder effets and a genetic bottlenecks are examples of genetic drift
+* What are the different roles of males and females in sexual selection? How does it affect sexual dimorphism in a species?
+* Distinguish homologous traits from analogous traits, and ancestral traits from derived traits. Whcih trait types are used in systematic calssification to creat a phylogeny?
+* What is a species, according to the biological species concept?
+* Is anagenesis or cladogenesis more responsible for the diversity of life on earth, and why?
+* How do geographic barriers cause allopatric speciation? 
+
+### Definitions:
+* Evolution: A change in the frequency of a trait, and the genes that control it, from one generation to the next.
+	* Evolution
+* Five evolutionary forces
+	* mutation
+	* Natural selection
+	* gene flow
+	* genetic drift
+	* sexual selection
+#### Mutation
+* *Increases Variation*
+* Mutations during DNA replication are compounded by crossing over
+* Each offspring born qith a unique combo of parents' DNA 
+
+#### Natural Selection
+* *Reduces Variation*
+* Can select *for* helpful mutations **OR** *against* harmful mutations
+* Environment selects for/against phenotypic traits (and the genes that control them) 
+*  Types of Natural Selection
+	* Directional: Selects for greater or lesser frequency of a trait in a population
+	* Stabilizing: Maintains a phenotype by selecting against outliers
+* Individuals vs. Populations 
+	* Natural selection operates on *individuals'* phenotypes 
+	* Causing *populations* to evolve
+#### Gene Flow
+* *Reduces* **OR** *increases* Variation
+* "Genetic Baggage" of migration
+* Genetic Drift 
+	* *reduces* Variation
+	* Random changes in allele frequencies in a population
+		* For example: Natural Disasters, or varying birthrates - can be solved by eating the old
+		* Founder effect: Small segment of population splits off from original founder population, taking with them a random sample of genes, stays reproductively isolated
+		* Geographically isolated populations
+			* Pitcairn Island: So, so inbred, jesus fuck they're inbred, it's like an Alabama orgy but with only 9 grandparents
+		* Socially isolated populations 
+			* Amish
+		* Genetic Bottleneck: Large population reduces, and then it increases
+			* Natural disaster occurs, reduces gene pool, then population regrows, but from this new smaller gene pool
+			* Post-bottlneck population has much less genetic diversity
+			* Examples: Elephant Seals in California, Cheetahs
+#### Evolutionary Forces on humans
+* Gene flow and genetic drift:
+	* Powerful in small populations of hominin ancestors
+* Fewer traits due to natural selection than previously thought
+#### Sexual Selection
+* Differential fitness among members of same sex within a species
+* Females choose carefully
+* Male traits that enhance reproductive success are elaborated
+	* Elaborate male traits signal underlying genetic quality
+	* Males show off and compete
+* Sexual Dimorphism
+	* Differences in size, shape, or color between the sexes 
+	* Result of male-male competition and importance of female choice
+### Systemic Classification
+* Organisms grouped by similarities due to common ancestry
+* Homologous Traits: Similar because of shared ancestry
+* Analogous Traits: Similar because of convergent evolution (different ancestry) 
+* Ancestral Traits: Retained from ancestral species
+* Derived Traits: Evolved since last ancestral species
+	* Based on *Derived Traits*, Systematists create a phylogeny
+#### What is a species?
+* The smallest taxonomic unit in a classification
+* The only taxonomix unit that can be objectively defined (???)
+* Species are *dynamic* 
+##### Biological Species Concept
+* An interbreeding natural population
+* Reproductively isolated from other such populations
+	* Only find reproductive success with members of their own species; to our knowledge humans fit this definition 
+	* "Closed Reproductive Entity"
+		* Reproductive isolating mechanisms
+##### Speciation
+* Appearance of new species from an ancestral population
+* Always ongoing 
+* Speciation ending
+	* Example: Fertile mules - occuring through non-disjunction errors
+* Two broad patterns:
+	* Anagenesis
+		* Slow, gradual evolution of same population (linear) 
+		* For example: Giant sloths went through an anagenetic process to become the tree sloths we have today
+	* Cladogenesis
+		* one ancestral species evolves into 2 or more descendant species (branching) 
+		* barriers
+		* Evolutionary Forces?
+		* For example: Chimpancestors 2 populations got seperated on different sides of the Congo river, one evolved into modern chimpanzees the other evolved into modern Bonobos, very similar but there are distinct differences.
+* Three specific processes
+	* *Allopatric speciation*
+	* Parapatric speciation
+	* Sympatric speciation
