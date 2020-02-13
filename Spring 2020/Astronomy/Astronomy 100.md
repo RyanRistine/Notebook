@@ -271,3 +271,47 @@ in science a theory is not he same as a hypothesis, rather:
 	* Something that reflects will look *"Shiny"* whereas most things that are colorful without being shiny are scattering
 		* example of reflecting: Mirror reflects light in a particular direction; why you can see different "perspectives" in a mirror
 		* example of scattering: Projector screen, scatters same(relatively) light in all directions
+## Lecture 2/13
+
+#### What is light?
+* Light can act either like a particle or like a wave
+	* Waves contribute to the weird "spikes" coming off lights at night and stuff
+* Particles of light are called photons
+* A wave is a pattern of motion that can carry energy without carrying matter along with it
+* Wavelength is the distance between two wave peaks 
+* Frequency is the number of times per second that a wave vibrates up and down
+* wavelength * frequency = speed of light
+* if energy is higher frequency is higher, wavelength is shorter
+* we measure the ripples in time and space not from light, but from black holes merging across the universe
+
+* Electromagnetic Spectrum/Radiation - Short to Long wavelength
+	* Gamma Rays - highest energy 
+	* X-rays
+	* Ultraviolet
+	* Visible Light
+	* Infared
+		* the longer end of infared is part of "microwaves"
+	* radio
+		* The first 1/3 or so of radio is part of "microwaves"
+### What is the structure of matter?
+* Going from "large" to smaller
+	* Atom 
+		* Electron Cloud
+			* Nucleus
+			* Protons + neutrons
+* The different *elements* are differnt atoms distinguished by the number of protons in their nucleus
+* *Molecules*: consist of two or more atoms
+
+### How is energy stored in atoms?
+* Electrons in atoms are restricted to particularenergy levels or orbits
+
+### Spectrums
+
+* Continuous Spectrum
+	* Thermal Spectrum - light coming from how hot something is
+	* The spectrum of a common light bullb pan aall visibile wavelengthd
+* Emission Line Specturm
+	* A low-density cloud of gas emits light only at specific wavelengths that depend on its compostition and temperature, producing a spectrum with bright emission lines
+* Absoprtion Line Spectrum
+	* A cloud of gas between us and a light bulb can absorb light of specific wabelengths, leaving dark absorption lines in the spectrum
+
