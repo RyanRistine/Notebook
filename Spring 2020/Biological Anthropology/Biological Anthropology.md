@@ -750,3 +750,47 @@
    * Northern Latitudes
    * Less eumelanin -> more efficient vitamin D synthesis
    * Rickets
+
+### Biology of Skin Color
+	* Dr. Nina Joblonski
+	* MC1R gene somewhat contributes to skin color 
+		* In African cultures where skin is mostly dark, there is very little variation in the MC1R gene
+
+### Social Interpretations of the Skin Color Polymorphism: Race 
+* How to classify human variation below the species level
+* Antrhopological definition of race (traditional):
+	* Populations in/from a particular geographic area
+* But social definitions are more complex
+
+### Homo sapiens: A polytypic species
+* Can be divided into local populations by *more than one* phenotypic trait
+* Polygenic traits: 
+	* Continuum
+* People tend to have similar phenotypes across *broad* geographic ranges
+* Humans are continuously distributed: no boundaries betwee populations
+	* like a spectrum of colors, not a pie chart
+### Clinal Variation
+* Gradual variation of aone allele or phentoypic trait across geographical space
+* Current way for anthropologists to explain human diversity (vs. race) 
+
+### Race?
+* More genetic and physical variation *within* than *between* "racial groups
+* ALL huamns share unique attributes 
+* ALL humans possess varying intelligence
+* History of "race"
+	* 18^th TO 19^th century: immigrants to US 
+	* To support Euro-American idologies of ineqaulity 
+	* to rationalize conquest, slavery, discrimination
+	* Racial stereotypes 
+#### Changing attitudes in anthropology
+* Scientific racism (19^th - early 20^th centuries): 
+	* races were real and rankable
+		* Cranial capacity
+		* Cephalic index
+* Today: environmental influence is key
+* Take home messages about race:
+	* not a biologically meaningful concept: no *natural* subdivisions
+	* but population-level biological differences do exist
+	* exists as a culturally constructed category 
+	* Anthropologists: Clinal variation, not race
+
