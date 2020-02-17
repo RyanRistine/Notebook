@@ -315,3 +315,69 @@ in science a theory is not he same as a hypothesis, rather:
 * Absoprtion Line Spectrum
 	* A cloud of gas between us and a light bulb can absorb light of specific wabelengths, leaving dark absorption lines in the spectrum
 
+## Lecture 2/17
+
+### Astronomy Picture of the Day
+* Betelgeuse is changing 
+	* Getting Dimmer
+
+### More light stuff
+
+#### Emission Lines
+* Each type of ato has a unique set of energy levels
+* each transition corresponds to a unique hoton enrgy, frequency, and wavelength #### Maternal-fetal incompatibility 
+
+#### Absorption Lines
+* Because those atoms can absorb photons with those same energies, upward transitions produce a pattern of absorption lines at the same wavelengths
+
+#### Atoms and Light
+* Each type of atom has a unique spectral fingerprint
+* Observing the fingerprints in a spectrum tells us which kinds of atoms are present 
+* Hotter object emit more light at all frequencies per unit area 
+	* Hotter = Brighter
+* Hotter objects emit photons with a higher average energy. 
+	* Hotter = Bluer
+	* Still giving off more red photons
+#### How do we know what we know?
+* The answer, Light! (electromagnetic Radiation)
+* What can we determine with light?
+	* Luminosity (brightness)
+	* Temperature 
+	* Composition
+	* And much more, (later in the semester) such as ...
+	* Speed (Doppler Shift)
+	* Rotation Rate (Doppler Shift) 
+	* Position, distance, mass, age ...
+
+### Chapter 6
+
+* What are the two most important properties of a telescope?
+	* Light-collecting area: Telescopes with a larger collecting area can gather a greater amount of light in a shorter range
+	* Angular resolution: Telescopes that are larger are capable of taking images with greater detail
+
+#### Angular Resolution
+* The minimum angular seperation that the telescope can distinguish
+* Astronomers want better *angular resolution* the magnification doesn't matter
+
+### What are the tow basic designs of telescopes?
+* **Refracting telescope**: Focuses light with lenses
+* **Reflecting telescope**: Focuses light with mirrors 
+
+#### Refracting Telescope
+* Refractiing telescopes need to be very long, with large, heavy lenses
+
+#### Reflecting Telescope
+* Reflecting telescopes can have much greater diameters 
+* Most modern telescopes are reflectors 
+	* state of the art is ~the size of seating area in Darwin-03
+### Recording Images
+* Digital camers detect light with ***Charge-couple devices***
+* The inventors of the CCD won the 2009 Nobel Prize in physics
+* The CCDs in digital cameras are simliar to those used in modern telescopes
+
+### How does Earth's atmosphere affect ground-based observations?
+* The best ground-based sites for astronomical observing are:
+	* Calm (not too windy)
+	* High (less atmosphere to see through)
+	* Dark (far from city lights)
+	* Dry (few cloudy nights)   
