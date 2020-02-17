@@ -2,7 +2,7 @@
 
 ## Chapter 1  
 
-#### What makes humans different from other animal species?
+### What makes humans different from other animal species?
 
   * Culture
     * Language, Social Structure
@@ -11,7 +11,7 @@
   * Anatomy
     * Bipedal Locomotion
 
-#### Anthropology has 4 main sub-disciplines
+### Anthropology has 4 main sub-disciplines
 
   * Cultural Anthropology
   * Linguistic anthropology
@@ -21,14 +21,14 @@
     * Diversity of modern human Biology
     * Based on Evolution
 
-#### What is Culture?
+### What is Culture?
 
   * A set of learned behavior traditions
   * Ways of behaving valuing and thinking
     * Socially transmitted and learned
   * Possessed by other animal species
 
-#### Evolution
+### Evolution
 
   * A change in the frequency of a particular trait, and the genes that
     control it, from one generation to the next.
@@ -512,56 +512,56 @@
 
 ### Monogenic Traits
 * One gene -> one phenotypic trait
-* you either have it or you don't 
+* you either have it or you don't
 
 ### Polygenic Trait
 * Multiple genes -> one phenotypic trait
-* most of our traits 
-* Distribution: Bell shaped curve 
+* most of our traits
+* Distribution: Bell shaped curve
 * examples: eye color, hair color, face shape etc.
 
-### Pleiotropy 
+### Pleiotropy
 * One gene -> multiple phenotypic traits
 * Example achondroplasia (dwarfism)
 
-### Complex phenotypes 
-* The influence that genotype and environment each have on phenotype is measured in terms of 
-	* Heritability 
-	* Ranges from 0-1 
+### Complex phenotypes
+* The influence that genotype and environment each have on phenotype is measured in terms of
+	* Heritability
+	* Ranges from 0-1
 
-### Twin method 
+### Twin method
 * Estimates heritbaility by comparing concordance rates of indentical twins (MZ - Mono-zygote) and Fraternal twins (DZ)
 * How often dotwins exhibit the same phenotypic trait?
 	* MZ = 100%, DZ = 66%
 
-### California Autism Twins Study 
+### California Autism Twins Study
 * Concordance rates:
 	* 70% MZ, 35% DZ
 * 3-14% chance for different age siblings
 * Environment unique to twins
 
-### Endocrine Disruptors 
+### Endocrine Disruptors
 * Found... everywhere
-* DES 
-	* vaginal/breast cancer in daughters 
+* DES
+	* vaginal/breast cancer in daughters
 * PFOA
-	* Obesity in daughters 
+	* Obesity in daughters
 
-### Congeital changes to male reproductive anatomy 
-* Hypospadias 
+### Congeital changes to male reproductive anatomy
+* Hypospadias
 * Bisphenol A
 * "BPA Free"?
 
-### Eugenics 
+### Eugenics
 * Francis Galton (1883) - "future betterment of the human race"
-* positive eugenics 
-* negative eugenics 
+* positive eugenics
+* negative eugenics
 * California's role
 * "war on the weak"
 
 ## Chapter 5 - 2/11
 
-### Learning Objectives 
+### Learning Objectives
 * Explain how natural selection works, and distinguish between the results of directional and stablilizing selection
 * Give an example of gene flow
 * Describe hor founder effets and a genetic bottlenecks are examples of genetic drift
@@ -569,7 +569,7 @@
 * Distinguish homologous traits from analogous traits, and ancestral traits from derived traits. Whcih trait types are used in systematic calssification to creat a phylogeny?
 * What is a species, according to the biological species concept?
 * Is anagenesis or cladogenesis more responsible for the diversity of life on earth, and why?
-* How do geographic barriers cause allopatric speciation? 
+* How do geographic barriers cause allopatric speciation?
 
 ### Definitions:
 * Evolution: A change in the frequency of a trait, and the genes that control it, from one generation to the next.
@@ -583,29 +583,29 @@
 #### Mutation
 * *Increases Variation*
 * Mutations during DNA replication are compounded by crossing over
-* Each offspring born qith a unique combo of parents' DNA 
+* Each offspring born qith a unique combo of parents' DNA
 
 #### Natural Selection
 * *Reduces Variation*
 * Can select *for* helpful mutations **OR** *against* harmful mutations
-* Environment selects for/against phenotypic traits (and the genes that control them) 
+* Environment selects for/against phenotypic traits (and the genes that control them)
 *  Types of Natural Selection
 	* Directional: Selects for greater or lesser frequency of a trait in a population
 	* Stabilizing: Maintains a phenotype by selecting against outliers
-* Individuals vs. Populations 
-	* Natural selection operates on *individuals'* phenotypes 
+* Individuals vs. Populations
+	* Natural selection operates on *individuals'* phenotypes
 	* Causing *populations* to evolve
 #### Gene Flow
 * *Reduces* **OR** *increases* Variation
 * "Genetic Baggage" of migration
-* Genetic Drift 
+* Genetic Drift
 	* *reduces* Variation
 	* Random changes in allele frequencies in a population
 		* For example: Natural Disasters, or varying birthrates - can be solved by eating the old
 		* Founder effect: Small segment of population splits off from original founder population, taking with them a random sample of genes, stays reproductively isolated
 		* Geographically isolated populations
 			* Pitcairn Island: So, so inbred, jesus fuck they're inbred, it's like an Alabama orgy but with only 9 grandparents
-		* Socially isolated populations 
+		* Socially isolated populations
 			* Amish
 		* Genetic Bottleneck: Large population reduces, and then it increases
 			* Natural disaster occurs, reduces gene pool, then population regrows, but from this new smaller gene pool
@@ -622,36 +622,36 @@
 	* Elaborate male traits signal underlying genetic quality
 	* Males show off and compete
 * Sexual Dimorphism
-	* Differences in size, shape, or color between the sexes 
+	* Differences in size, shape, or color between the sexes
 	* Result of male-male competition and importance of female choice
 ### Systemic Classification
 * Organisms grouped by similarities due to common ancestry
 * Homologous Traits: Similar because of shared ancestry
-* Analogous Traits: Similar because of convergent evolution (different ancestry) 
+* Analogous Traits: Similar because of convergent evolution (different ancestry)
 * Ancestral Traits: Retained from ancestral species
 * Derived Traits: Evolved since last ancestral species
 	* Based on *Derived Traits*, Systematists create a phylogeny
 #### What is a species?
 * The smallest taxonomic unit in a classification
 * The only taxonomix unit that can be objectively defined (???)
-* Species are *dynamic* 
+* Species are *dynamic*
 ##### Biological Species Concept
 * An interbreeding natural population
 * Reproductively isolated from other such populations
-	* Only find reproductive success with members of their own species; to our knowledge humans fit this definition 
+	* Only find reproductive success with members of their own species; to our knowledge humans fit this definition
 	* "Closed Reproductive Entity"
 		* Reproductive isolating mechanisms
 ##### Speciation
 * Appearance of new species from an ancestral population
-* Always ongoing 
+* Always ongoing
 * Speciation ending
 	* Example: Fertile mules - occuring through non-disjunction errors
 * Two broad patterns:
 	* Anagenesis
-		* Slow, gradual evolution of same population (linear) 
+		* Slow, gradual evolution of same population (linear)
 		* For example: Giant sloths went through an anagenetic process to become the tree sloths we have today
 	* Cladogenesis
-		* one ancestral species evolves into 2 or more descendant species (branching) 
+		* one ancestral species evolves into 2 or more descendant species (branching)
 		* barriers
 		* Evolutionary Forces?
 		* For example: Chimpancestors 2 populations got seperated on different sides of the Congo river, one evolved into modern chimpanzees the other evolved into modern Bonobos, very similar but there are distinct differences.
@@ -659,3 +659,94 @@
 	* *Allopatric speciation*
 	* Parapatric speciation
 	* Sympatric speciation
+
+## Chapter 6
+
+### Learning Objectives
+
+* What makes a gene or trait polymorphic
+* How does marternal-fetal incompatibility work against the blood type
+* Explain how heterozygote advantage can maintain a balanced polymorphism, using the sickle cell allele as an example
+* Why is lactose tolerance a polymorphic trait
+* Humans are a polytopic species. How does this help explain why anthropologists now prefer to explain the skin color polymorphism in terms of clinal variation rather than race
+
+### Human Variation
+* Population-level variation vs. individual variation
+
+### Population Genetics
+* Genetic variation within/between populations: *Polymorphisms*
+* A population that has 2+ alleles for a gene (or 2+ phenotypes for a trait) is *polymorphic* for that gene/trait
+
+### Polymorphism: ABO Blood Type System
+* Frequencies of A, B, AB and O phenotypes vary across the world
+* Different phenotypes exhibit different resistance to disease
+
+#### Maternal-fetal incompatibility
+* ABO and Rhesus(Rh) blood type systems RH = +/-
+   * Babies with + if mother has - and vice versa are much more likely to be debilitatingly anemic
+* Mother does not possess a red blood cell antigen, but fetus does
+* Mother’s body will make antibodies against the fetus’s antigen
+* First pregnancy OK, *next* ones risk miscarriage or anemia
+* Against the blood type *polymorphism*
+* If Natural selection had its way, all humans would have the same blood type, humans have just gotten around that somehow I wasn’t really paying attention (this was when Jack made the rhesus blood joke)
+
+### Balanced Polymorphism: sickle cell disease
+* Recessive Inheritance
+* Found in higher than expected frequencies in certain populations
+* Balanced polymorphism natural selection prevents alleles from becoming fixed/lost
+   * Fixed - everyone in population has it
+   * Lost - nobody has it
+* Heterozygotes have a selective advantage over homozygotes
+   * Better chance of survival
+   * The means by which a balanced polymorphism is maintained
+* RBCs deliver oxygen to body tissues
+* Hemoglobin (protein)
+   * 4 polypeptide chains (2 matching alpha + 2 beta)
+* Point Mutation on beta chain results in sickle cell trait
+* Sickle cell attacks: RBCs distort after oxygen is dropped off -> “traffic jam”
+* HbAHbA = Homozygous, normal
+* HbAHbS = heterozygous, sickle cell trait
+   * Co-dominant
+* HbSHbS = homozygous, sickle cell anemia
+   * Leading cause of death in NCAA football players
+* High frequencies of sickle cell allele + high occurences of a very fatal form of malaria
+* Vector: mosquitoes
+* Sickle cell allele (HbS) occurs in ALL populations
+* Heterozygote advantage
+
+##### How to decrease malaria parasites
+* Kill mosquitoes (DDT)
+* Interrupt parasite’s life-cycle (drugs)
+* **Make host’s body inhospitable to parasite**
+
+##### Balanced polymorphism: sickle cell disease (jesus she’s been on this for 40 minutes)
+* 2000 years ago, central Africa
+* Slash-and-burn agriculture
+   * Lots of standing water which mosquitoes treat like a love hotel
+* New mosquito vector for malaria
+* “Bad” mutation turned “good” (in some areas)
+* Genetic equilibrium between allele’s costs and benefits
+* Where falciparum malaria is endemic, up to 10% of the population are carriers of HbS
+* Heterozygote advantage: greater resistance (not immunity!) to malaria
+
+##### Lactase Polymorphism
+* Mammals typically lose the ability to digest lactose when production of lactase enzyme ceases
+* *diarying* population continue to produce lactase through adulthood
+* It’s “normal” to be lactose intolerant
+* Lactase persistence allele = dominant
+* Lactose tolerant and intolerant people produce identical lactase enzymes
+* Difference in regulatory genes: regulate *timing* of lactase synthesis
+* Nomadic pastoralists of North Africa and Arabia: fresh milk as critical food resource
+* Northern Europe: milk products help prevent vitamin D deficiency
+
+##### Skin Color Polymorphism
+* Selection pressure: exposure to ultraviolet radiation
+* High UVR: (Dark Skin Color)
+   * Equator, tropics
+   * More melanin -> protection from sunburn, skin cancer, folic acid breakdown
+      * Deficiencies in folic acid during pregnancy can cause birth defects
+         * spina bifida - could be fatal
+* Light Skin Color
+   * Northern Latitudes
+   * Less eumelanin -> more efficient vitamin D synthesis
+   * Rickets
