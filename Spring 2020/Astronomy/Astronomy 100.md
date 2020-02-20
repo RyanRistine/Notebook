@@ -380,4 +380,58 @@ in science a theory is not he same as a hypothesis, rather:
 	* Calm (not too windy)
 	* High (less atmosphere to see through)
 	* Dark (far from city lights)
-	* Dry (few cloudy nights)   
+	* Dry (few cloudy nights)  
+
+### Twinkling and Turbulence 
+* Turbulent air flow in Eath's atmosphere distors our view, causing stars to appear to twinkle
+### Adapative Optics
+* Rapidly changing the shape of a telescopes mirror compensates for some of the effects of turbulence
+## Lecture 2/20
+### Transmission in Atmosphere
+* Only radio and visible light pass easily through Earth's atmosphere 
+* we need telescopes in space to observe other forms
+* Waves in terms of energy:
+	* Gamma and X-Ray = high energy
+	* Ultraviolet and visible less energy
+	* infared and radio least energy
+
+
+# Exam 2
+
+## Lecture 2/20
+
+### How does Newton's law of gravity extend Kepler's Laws?
+* Newton's laws of gravity and motion showed that the relationship between the orbital period and average orbital dsistance of a system tells us the total mass of the system
+* We can "*weigh*" things across the Universe if we can see their orbits
+
+### The Formation of Stars and Planets 
+* Infared light can get through gas clouds
+	* Same phenomenon that turns sunsets red 
+* Our solar system is only a tiny art of the universe 
+* Theories of it sorigin must explain the contents: planets, moons, asteroids, etc. 
+#### The Solar Nebula 
+* The Solar System formed out of a nebula which collapsed under its own gravity.
+* Observational evidence:
+	* We observer stars in the process of forming today
+	* they are always found within interstellar clouds of gas
+* **Solar Nebula** - Name given to the cloud of gas from which our own Solar Sytem formed 
+* **Molecular cloud** - name given to the densest and ocolset clouds of gas in the interstellar mediu the material between the stars
+
+### Gravitational Collapse
+* The Solar Nebula was initially somewhat spherical and a few light years in diameter
+	* Very Cold
+	* Rotating Slightly
+* It was given a "push" by some event
+	* Perhaps the shock wave from a nearby supernova
+* As the nebula shrank, gravity increased, causing collapse.
+* As the nebula "falls" inward, gravitational potential energy is converted to heat 
+	* conservation of energy
+* As the nebula's radius decreases, it rotates faster 
+	* conservation of Angular Momentum
+
+#### Conservation of Angular Momentum
+* angular momentum = mass * Velocity * radius
+* The angular momentum of an object cannot change unless an external twisting force (torque) is acting on it 
+* Angular momentum conservation explains why objext rotate faster as they shrink in radius
+	* For example figure skaters 
+
