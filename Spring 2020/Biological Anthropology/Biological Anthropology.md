@@ -793,4 +793,102 @@
 	* but population-level biological differences do exist
 	* exists as a culturally constructed category 
 	* Anthropologists: Clinal variation, not race
+## Chapter 7 Learning Objectives (part 1)
+* What is distinctive about eutherian reproductive anatomy?
+* how do these anatomicaltraits set primates apart from othe rmammals?
+	* Grasping hand/foot with nails and opposable thumn/big toe
+	* presence of clavicles
+	* Forward facing eyes, enclosed with bone, and seteoscopic vision
+	* large::body size ratio
+	* Generalized teeth (what do the numbers in a dental formula represent?)
+* Compare the arboreal hypothesis to the visual predation hypothesis, as competing explanations for primate anatomy
+* How does a K-selection reproductive strategy amke possible primates' extended ontogeny? Give an example of observaitonal learning. 
+
+### The Primate Radiation
+* Three groups of mammals based on preproductive anatomy 
+	* Metatherians
+		* Marsupials 
+		* No Placenta
+			* Placenta: thickened tissue within uterus that connects mother to fetus
+		* Almost embyonic at birth
+		* possums but also kangaroos and koalas 
+	* Prototherians
+		* reproduce by egg-laying
+		* nurse like other mammals
+		* platypus and echidna 
+		* was the original way for mammals to reproduce
+	* Eutherians 
+		* placental mammals 
+		* fetus nourished by placenta
+		* most numerous 
+### Primateas are distinguished from other mammals by: 
+* anatomical traits
+* life history (developmental) traits
+* behavioral traits
+
+#### Anatomical Traits
+* No anatomical specialization: versatility
+* Lower limb bones unfused 
+* retention of tail
+
+##### Genearlized body plan
+* Many types of locomotion
+	* Vertical clinging and leaping 
+	* quadrupedalism
+	* suspension
+##### Grasping hand/foot and opposable thumb/big toe
+* Five digits per hand/foot: ancestral trait
+* Opposable thumb/big toe: precision and power grip
+* exceptions?
+
+##### Flattened nails instead of claws
+* Sensitive finger pads with friction skin
+	* what gives us finger prints
+* Protected by nails
+
+##### Presence of Clavicles
+* For prehensile activities 
+* limit mobility of shoulder girdle
+* less adpative for mammals who run fast
+
+##### Forward facing eyes with stereoscopic vision
+* Visual fields overlap
+* two eyes focus on one object 
+* depth perception (3D) 
+
+##### Enclosed bony eye orbit
+* postorbital bar OR full bony socket
+* protection
+
+##### Reduced sense of smell/Improved vision
+* Enlargement of eyes 
+* Hand-eye coordianation
+* color vision
+* reduced snout
+
+##### Large brain::body size ratio
+* brains use lots of energy
+* Neocortex: higher cognitive processes
+
+##### Generalized teeth
+* No specialized teeth
+* varied diet
+
+#### heterodent dentition
+* Different teeth -> different functions 
+* Incisors and canines bite, cut
+* Premolars and molars crush, shred 
+
+#### Dental Formula
+* Number and types of teeth in each quadrant
+* Humans:
+	* 2 incisors
+	* 1 canine
+	* 2 premolars
+	* 3 molars
+	* written as: 2.1.2.3
+### Why did primates evolvethese anatomical adaptations?
+* Eyes, hands, feet
+* Arboreal hypothesis: well-adpated for life in the trees
+* Visual predation hypothesis: helped early primates catch prey
 
