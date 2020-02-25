@@ -435,3 +435,69 @@ in science a theory is not he same as a hypothesis, rather:
 * Angular momentum conservation explains why objext rotate faster as they shrink in radius
 	* For example figure skaters 
 
+## Lecture 2/25
+### Conservation of Angular Momentum cont.
+* The angular momentum of a system will be conserved.
+* Result: a spinning sphere will become a flattened, rotating disk. 
+* young stars are surrounded by rotating diss of gas and dust 
+* The Sun would also have been surorunded.
+* The rest of the Solar System formed from that rotating *protoplanetary disk* 
+* The protostar's energy source is gravitational energy. 
+* Core's temperature rises as it sinks. 
+* Hydrogen begins turning into helium in the core
+* It becomes a star
+
+### Star or Brown Dwarf?
+* Intermediary between planets and stars
+* protostar that didn't get big enough to become a star
+* The temperature in the core must be hot enough for the nuclear reaction htat turns hydrogen into helium, 10 million kelvin
+* Very low-mass stars (<0.8M, M=Mass of the sun) never start that reaction
+* These are called brown dwarfs
+
+### Extra-Solar Planets
+* They likely exist
+* Other stars are distant suns 
+* Successful theory or formation of our solar system suggests that planetary systems are a natural consequence of star formation
+* Why didn't you learn about extrasolar planets in elementary school
+	* They're hard to detect
+#### Detecting planets is difficult
+* A sun like star is a bilion times brighter than the reflected light from a jupiter-like planet
+	* Finding a planet is like spotting a moth next to a spotlight
+* Angular separation of star and planet is very small 
+	* stars are so distant that the light from the planet is basically on top of the light from the star
+* But over 3850 extrasolar planets have een found in the last fifteen years!
+
+#### How can extrasolar planets be detected?
+* Doppler Shift 
+	* Detect motion of star through its light spectrum, as the star "wobbles" due to the orbiting planet
+* Transit method 
+	* watch a star's brightness drop when it is parially blocked by the orbiting planet
+* Direct Detection
+	* image the plane titself, by making very sharp images and blocking th light from the star
+
+#### The Doppler Shift Technique
+* Depends on:
+	* Distance between star and planet 
+	* Mass of planet
+* Planet's tug on star causes starlight to be Doppler Shifted 
+* Same thing (kinda) as a cop using a radar gun
+* because planets have gravitational force (although relatively small compared to the star) that gravity makes stars slightly wobble 
+	* as it moves, causes waves to "pile up" or blue shift, and vice versa-red shift
+#### Measuring Velocity
+* Movement away from us shifts the light to longer wavelengths = redshift
+* movement towards us shifte the light to shorter wavelengths = blueshift
+
+#### Doppler Limitations 
+* Easier to detect massive planets close to their star
+	* most extrasolar planets discovered this way are more massive than Jupiter, but close to thei star than Earth
+	* Massive -> Large Doppler shift
+	* Close -> Short orbital periods, seen after a short time
+* does this mean that there are no small extrasolor orbiting far from their stars?
+	* No, they are harder to detect, but scientists are developing techniques that will look for smaller and smaller planets 
+* referred to as "*Hot Jupiters*"
+	* because they hot and big
+
+#### Transit Technique
+* Dark planet passes in front of bright star, star's brightness decreases slightly
+* only visible from Earth if we're looking at the orbital plane edge-on
+* essentially just tracking brightness over time - dip in brightness = maybe planet 
