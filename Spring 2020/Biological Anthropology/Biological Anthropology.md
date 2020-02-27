@@ -887,8 +887,141 @@
 	* 2 premolars
 	* 3 molars
 	* written as: 2.1.2.3
-### Why did primates evolvethese anatomical adaptations?
+#### Why did primates evolvethese anatomical adaptations?
 * Eyes, hands, feet
 * Arboreal hypothesis: well-adpated for life in the trees
 * Visual predation hypothesis: helped early primates catch prey
 
+## Lecture 2/28 - Chapter 7 Continued
+### Life History (developmental) Traits 
+#### Reproductive Strategies
+* Reproductive sucess and survial of the species
+* Two types: 
+	* r-selection
+	* k-selection
+* R-selection:
+	* Lots of sex cells, offspring
+	* Hands off parenting
+	* No postnatal dependency
+		* Instinctual survival behavior
+	* momma lays a shitload of eggs then dips forever
+ 
+* K-Selection
+	* Low birth number, low mortality
+	* Hands-on-parenting
+		* Postnatal Dependency
+	* Mammary glands give baby time to *learn*
+	* Most mammals use K-selection
+#### Extended ontogeny 
+* ontongeny == life cycle
+* Primates: vrey lon gphases and life span
+* Gives primates time to *learn* how to belong to a social group
+* Passive observation and imitation (observational learning)
+* Compare Gorilla ontogeny
+	* Gorillas are fairly similar to us in early stages of infancy and childhood 
+		* lots of learning
+#### Activity Budget
+* Diurnal - active during the day
+* Nocturnal - active during the night
+* Vision: most important sense - because of tendency to be diurnal
+* Prepuscular - most active at dawn/dusk
+* covers all activities that animals do in 24 hours
+#### Sociality
+* Most primates live in a social group: learned skill
+* Examples?
+	* interacting regularly with members of your own species 
+
+### Chapter 7 Learning Objectives (cont)
+* What are the two major suborders of primates?
+* what are the towo main groups in the Strepirshine suborder? Name four of the anatomical traits that distinguish from Haplorhines.
+* What are the different dental formulars of Platyrrhines and catarrhines?
+* Describe one anatomical trait unique to new worl monkeys and two anatomical traits unique to old world monkeys.
+* Name the three families that belong to the hominoid superfamily
+* List the five ape species (lesser and greater). For each describe its native ontinent social system and form of locomotion. In what way are bonobos unusual?
+* Describe the four main types of primate locomotion, and name one speices that habitually engages in each type. What are the three major hand positions for quadrupeds?
+#### Primate Suborders
+* **Strepirshines**: Lemurs and lorises
+	* more ancestral traits
+* **Haplorhines**: tarsiers, monkeys, apes, humans 
+* (Prosimians vs. Anthropoids) 
+	* Kinda old-school 
+	* Prosimians = Lemurs, Lorises, Tarsiers
+	* Anthropoids = Monkeys, Apes, Humans
+#### Strepsirshines
+* Lemurs and Lorises
+* Similar to earliest primates
+* Arboreal, nocturnal, insectivorous, less social
+* Ancestral traits maintained by Strepsirshines
+	* Tooth comb
+	* Grooming claw
+	* Postorbital bar 
+		* Ring of bone around eye to protect it 
+* Emphasis on sell
+	* Rhinarium
+		* wet nose, like dogs and cats
+	* Long muzzle 
+	* scent glands 
+* nocturnal 
+	* whisers
+	* *tapetal layer* 
+		* mirror like layer in the eye behind the retina to reflect and amplify light that comes into it at night, giving better night vision 
+#### Lemurs 
+* Madagascar
+	* Isolated on the island ever since it broke away from Africa 
+* Lack of competition, predation: exceptions to Strepsirshine rule
+* Scent glands 
+* Zoboomafoo
+* Lemurs are much more diverse than lorises
+
+#### Lorises
+* Tropical sub-saharan africa and some in asia
+* "classic" strepsirshines
+
+#### Haplorhines
+* Higher brain : Body size ratio
+* Less emphasis on smell
+* Diurnal: smaller eyes and ears, fully enlosed bony eye socket
+* live in social groups 
+
+#### Tarsiers 
+* Exceptional in many ways!
+* Nocturnal
+* Can turn heads 180 degrees
+* Carnivorous
+	* Insects, frogs, lizards, snakes 
+* Live only in south east asia
+	* islands of malaysia and Indonesia
+#### New World Monkeys
+* Live in North and South America
+* **Platyrrhines** - Taxonomic infa-order
+* Range: mexico -> argentina (tropical forests)
+* 1-25 lbs 
+* Dental Formula of 2.1.3.3
+* Arboreal - live in trees
+* Prehensil tail 
+	* kinda like our hands and feet
+* All social, all but one are diurnal
+	* the only nocturnal one is the owl monkey
+* Examples:
+	* Capuchin
+		* largest brain to body size ratio of any monkey
+		* Annie's boobs
+		* raid farmers crops just like Annie's boobs raids purple pens
+	* pygmy Marmoset
+		* Only primates to regulary have twins 
+	* Howler
+		* loud af
+	* Golden Lion Tamarin
+#### Catarrhines
+* sharp nose
+* Old world Primates
+* Wide range of habitats, many terrestrial
+* *almost* all trpoical
+* 2.1.2.3 dental formula
+* two superfamilies
+	* cercopithecoids (old world monkeys)
+	* Hominoids (apes and humans) 
+
+
+
+	
