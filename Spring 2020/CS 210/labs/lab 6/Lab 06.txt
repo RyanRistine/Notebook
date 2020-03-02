@@ -1,0 +1,2 @@
+1. cat {foo,bar} >> smallest.txt | sort smallest.txt | uniq < smallest.txt | head -n 4 < smallest.txt
+2. find -1R /home 2> /dev/null 
