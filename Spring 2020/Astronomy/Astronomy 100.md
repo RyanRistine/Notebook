@@ -500,4 +500,62 @@ in science a theory is not he same as a hypothesis, rather:
 #### Transit Technique
 * Dark planet passes in front of bright star, star's brightness decreases slightly
 * only visible from Earth if we're looking at the orbital plane edge-on
-* essentially just tracking brightness over time - dip in brightness = maybe planet 
+* essentially just tracking brightness over time - dip in brightness = maybe planet
+
+## Lecture 3/03
+* APOD: Blue Dolphin Nebula
+### Extrasolar planets cont
+* TRAPPIST-1 is an Ultracool Dwarf Star much smaller than our Sun
+	* Astronomers have noticed dips in TRAPPIST-1's brightness which suggests there are planets around the size of our Earth int its system
+	* Some of TRAPPIST's planets are too hot, some are too cold, but three might be just right to have liquid water, a building block of life
+		* This region arou na star where liquid water coul dexist is known as the *habitable zone* 
+### Direct Detection
+* Taking pictures of planets instead of detecting them via dips in the light of stars
+* Difficult to find earthlike planets using this technique
+### Gemini Planet Imager
+* GPI was built for one of the world's largest telescopes in order to detect the light from planets orbiting other stars! 
+	* Complex aaptive optics to make extremely sharp images
+### Planetary Atmospheres
+#### What is an Atmosphere?
+* Layer of gas surrounding a world
+* All planets and moons have an atmosphere
+	* but some, such as mercury or moon, have such an insignificant atmosphere that they are effectively 'airless"
+* Jovian planets are effectively 'all atmosphere"
+* Atmospheres of terrestrial worlds and satellites of jovian planets are tiny fraction of total mass
+* Atmospheres interact with surface and interior
+#### Atmosphere of MArs
+* Mostly CO2 
+* Surface pressure is low
+* colder than Earth
+#### Atmosphere of Venus
+* Surface pressure = 1 km under water on earth
+	* you would be crushed if you were on venus' surface
+* Surface Temperature = 750K
+* CO2 atmosphere with clouds of acid
+* Hotter than Mercury
+#### Earth's Atmosphere
+* Mostly N2 and O2 atmosphere
+* lots of water
+	* all phases of water are common on Earth 
+		* liquid
+		* gaseous
+		* solid
+### Astronomy's Important Discovery
+* Sunlight warms the planets
+* Venus is hotter than Mercury
+	* Venus has a Carbon Dioxide "heat blanket" that mkaes it warmer than it would be without it 
+* Earth has a Varbon Dioxide in the atmosphere
+	* Humans have been putting a lot more Carbon Dioxide in the atmosphere
+* As scientifically literare stewards of the Earth, can we understand what is happening and what we can do about it? 
+### The Environment
+* The environment on the Earth depends on the delicate balance between light coming in from the Sun and light escaping back into space.
+	* in visbile light
+	* out infared light
+#### Greenhouse Effect 
+* Atmosphere makes planet's surface hotter
+* Atmosphere transmits visible light, but absorbs infared light
+* planet gets warmer until it emits into space enough infared light to balance the light it receives from the Sun
+* Water, Carbon Dioxide, and Methane are effective greenho gases
+* think of the Carbon Dioxide we are talkig about as a "Heat Blanket" that traps in heat and makes the planet warmer.
+
+
