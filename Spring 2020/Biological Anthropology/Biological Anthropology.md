@@ -1218,3 +1218,17 @@
     * leopard
     * snake
     * eagle
+
+## Chapter 8
+### Chapter 8 Learning Objectives
+* What are the costs and benefits for primates of living in social groups?
+* Give examples of functional and symbolic aspects of primate culture.
+* What purpose foes grooming serve in primate social groups?
+* Compare solitary, monogamous, and polyandrous social systems
+* Why if infanticide practice in one-male polygynous groups?
+* in which social system are dominance hierarchies usually found? How are these maintained? Why is estrus most strongly marked here?
+* What are chimpanzees' and bonobos' social systems less stable than those of other primate species?
+* How does a species' sexual dimorphism relate to its social system?
+* Which primatologist pioneered the technique of long-term field study?
+
+**Fargo wildin**
