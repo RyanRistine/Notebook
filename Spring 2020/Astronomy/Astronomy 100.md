@@ -575,4 +575,24 @@ in science a theory is not he same as a hypothesis, rather:
 * But, incredible progress has been made at modeling and predicting the effects of climate change. See a talk in our own "What Physicists Do" series:
   * EXTREME WEATHER IN A CHANGING CLIMATE
     * https://youtu.be/4c8Hv0p0ePA
-    
+
+### With Global Warming comes
+* Sea and Glacial Ice melting
+* Raising ocean levels
+* Acidification of the ocean
+* Flooding
+* More intense Hurricanes
+* More and more intense wildfires
+
+### What you can do
+* Become educated about the problem
+* Take Personal action
+  * Reduce Energy Use
+  * Recycle and Reuse
+* Encourage Community action
+  * Public Transportation
+  * Renewable energy
+* Influence U.S. Action 
+  * Be an informed and active citizen
+  * Hold our leadership accountable
+  * Build a clean energy economy
