@@ -753,10 +753,10 @@
 
 ### Biology of Skin Color
 	* Dr. Nina Joblonski
-	* MC1R gene somewhat contributes to skin color 
+	* MC1R gene somewhat contributes to skin color
 		* In African cultures where skin is mostly dark, there is very little variation in the MC1R gene
 
-### Social Interpretations of the Skin Color Polymorphism: Race 
+### Social Interpretations of the Skin Color Polymorphism: Race
 * How to classify human variation below the species level
 * Antrhopological definition of race (traditional):
 	* Populations in/from a particular geographic area
@@ -764,26 +764,26 @@
 
 ### Homo sapiens: A polytypic species
 * Can be divided into local populations by *more than one* phenotypic trait
-* Polygenic traits: 
+* Polygenic traits:
 	* Continuum
 * People tend to have similar phenotypes across *broad* geographic ranges
 * Humans are continuously distributed: no boundaries betwee populations
 	* like a spectrum of colors, not a pie chart
 ### Clinal Variation
 * Gradual variation of aone allele or phentoypic trait across geographical space
-* Current way for anthropologists to explain human diversity (vs. race) 
+* Current way for anthropologists to explain human diversity (vs. race)
 
 ### Race?
 * More genetic and physical variation *within* than *between* "racial groups
-* ALL huamns share unique attributes 
+* ALL huamns share unique attributes
 * ALL humans possess varying intelligence
 * History of "race"
-	* 18^th TO 19^th century: immigrants to US 
-	* To support Euro-American idologies of ineqaulity 
+	* 18^th TO 19^th century: immigrants to US
+	* To support Euro-American idologies of ineqaulity
 	* to rationalize conquest, slavery, discrimination
-	* Racial stereotypes 
+	* Racial stereotypes
 #### Changing attitudes in anthropology
-* Scientific racism (19^th - early 20^th centuries): 
+* Scientific racism (19^th - early 20^th centuries):
 	* races were real and rankable
 		* Cranial capacity
 		* Cephalic index
@@ -791,7 +791,7 @@
 * Take home messages about race:
 	* not a biologically meaningful concept: no *natural* subdivisions
 	* but population-level biological differences do exist
-	* exists as a culturally constructed category 
+	* exists as a culturally constructed category
 	* Anthropologists: Clinal variation, not race
 ## Chapter 7 Learning Objectives (part 1)
 * What is distinctive about eutherian reproductive anatomy?
@@ -802,38 +802,38 @@
 	* large::body size ratio
 	* Generalized teeth (what do the numbers in a dental formula represent?)
 * Compare the arboreal hypothesis to the visual predation hypothesis, as competing explanations for primate anatomy
-* How does a K-selection reproductive strategy amke possible primates' extended ontogeny? Give an example of observaitonal learning. 
+* How does a K-selection reproductive strategy amke possible primates' extended ontogeny? Give an example of observaitonal learning.
 
 ### The Primate Radiation
-* Three groups of mammals based on preproductive anatomy 
+* Three groups of mammals based on preproductive anatomy
 	* Metatherians
-		* Marsupials 
+		* Marsupials
 		* No Placenta
 			* Placenta: thickened tissue within uterus that connects mother to fetus
 		* Almost embyonic at birth
-		* possums but also kangaroos and koalas 
+		* possums but also kangaroos and koalas
 	* Prototherians
 		* reproduce by egg-laying
 		* nurse like other mammals
-		* platypus and echidna 
+		* platypus and echidna
 		* was the original way for mammals to reproduce
-	* Eutherians 
-		* placental mammals 
+	* Eutherians
+		* placental mammals
 		* fetus nourished by placenta
-		* most numerous 
-### Primateas are distinguished from other mammals by: 
+		* most numerous
+### Primateas are distinguished from other mammals by:
 * anatomical traits
 * life history (developmental) traits
 * behavioral traits
 
 #### Anatomical Traits
 * No anatomical specialization: versatility
-* Lower limb bones unfused 
+* Lower limb bones unfused
 * retention of tail
 
 ##### Genearlized body plan
 * Many types of locomotion
-	* Vertical clinging and leaping 
+	* Vertical clinging and leaping
 	* quadrupedalism
 	* suspension
 ##### Grasping hand/foot and opposable thumb/big toe
@@ -847,21 +847,21 @@
 * Protected by nails
 
 ##### Presence of Clavicles
-* For prehensile activities 
+* For prehensile activities
 * limit mobility of shoulder girdle
 * less adpative for mammals who run fast
 
 ##### Forward facing eyes with stereoscopic vision
 * Visual fields overlap
-* two eyes focus on one object 
-* depth perception (3D) 
+* two eyes focus on one object
+* depth perception (3D)
 
 ##### Enclosed bony eye orbit
 * postorbital bar OR full bony socket
 * protection
 
 ##### Reduced sense of smell/Improved vision
-* Enlargement of eyes 
+* Enlargement of eyes
 * Hand-eye coordianation
 * color vision
 * reduced snout
@@ -875,9 +875,9 @@
 * varied diet
 
 #### heterodent dentition
-* Different teeth -> different functions 
+* Different teeth -> different functions
 * Incisors and canines bite, cut
-* Premolars and molars crush, shred 
+* Premolars and molars crush, shred
 
 #### Dental Formula
 * Number and types of teeth in each quadrant
@@ -893,10 +893,10 @@
 * Visual predation hypothesis: helped early primates catch prey
 
 ## Lecture 2/28 - Chapter 7 Continued
-### Life History (developmental) Traits 
+### Life History (developmental) Traits
 #### Reproductive Strategies
 * Reproductive sucess and survial of the species
-* Two types: 
+* Two types:
 	* r-selection
 	* k-selection
 * R-selection:
@@ -905,20 +905,20 @@
 	* No postnatal dependency
 		* Instinctual survival behavior
 	* momma lays a shitload of eggs then dips forever
- 
+
 * K-Selection
 	* Low birth number, low mortality
 	* Hands-on-parenting
 		* Postnatal Dependency
 	* Mammary glands give baby time to *learn*
 	* Most mammals use K-selection
-#### Extended ontogeny 
+#### Extended ontogeny
 * ontongeny == life cycle
 * Primates: vrey lon gphases and life span
 * Gives primates time to *learn* how to belong to a social group
 * Passive observation and imitation (observational learning)
 * Compare Gorilla ontogeny
-	* Gorillas are fairly similar to us in early stages of infancy and childhood 
+	* Gorillas are fairly similar to us in early stages of infancy and childhood
 		* lots of learning
 #### Activity Budget
 * Diurnal - active during the day
@@ -929,7 +929,7 @@
 #### Sociality
 * Most primates live in a social group: learned skill
 * Examples?
-	* interacting regularly with members of your own species 
+	* interacting regularly with members of your own species
 
 ### Chapter 7 Learning Objectives (cont)
 * What are the two major suborders of primates?
@@ -942,9 +942,9 @@
 #### Primate Suborders
 * **Strepirshines**: Lemurs and lorises
 	* more ancestral traits
-* **Haplorhines**: tarsiers, monkeys, apes, humans 
-* (Prosimians vs. Anthropoids) 
-	* Kinda old-school 
+* **Haplorhines**: tarsiers, monkeys, apes, humans
+* (Prosimians vs. Anthropoids)
+	* Kinda old-school
 	* Prosimians = Lemurs, Lorises, Tarsiers
 	* Anthropoids = Monkeys, Apes, Humans
 #### Strepsirshines
@@ -954,22 +954,22 @@
 * Ancestral traits maintained by Strepsirshines
 	* Tooth comb
 	* Grooming claw
-	* Postorbital bar 
-		* Ring of bone around eye to protect it 
+	* Postorbital bar
+		* Ring of bone around eye to protect it
 * Emphasis on sell
 	* Rhinarium
 		* wet nose, like dogs and cats
-	* Long muzzle 
-	* scent glands 
-* nocturnal 
+	* Long muzzle
+	* scent glands
+* nocturnal
 	* whisers
-	* *tapetal layer* 
-		* mirror like layer in the eye behind the retina to reflect and amplify light that comes into it at night, giving better night vision 
-#### Lemurs 
+	* *tapetal layer*
+		* mirror like layer in the eye behind the retina to reflect and amplify light that comes into it at night, giving better night vision
+#### Lemurs
 * Madagascar
-	* Isolated on the island ever since it broke away from Africa 
+	* Isolated on the island ever since it broke away from Africa
 * Lack of competition, predation: exceptions to Strepsirshine rule
-* Scent glands 
+* Scent glands
 * Zoboomafoo
 * Lemurs are much more diverse than lorises
 
@@ -981,24 +981,24 @@
 * Higher brain : Body size ratio
 * Less emphasis on smell
 * Diurnal: smaller eyes and ears, fully enlosed bony eye socket
-* live in social groups 
+* live in social groups
 
-#### Tarsiers 
+#### Tarsiers
 * Exceptional in many ways!
 * Nocturnal
 * Can turn heads 180 degrees
 * Carnivorous
-	* Insects, frogs, lizards, snakes 
+	* Insects, frogs, lizards, snakes
 * Live only in south east asia
 	* islands of malaysia and Indonesia
 #### New World Monkeys
 * Live in North and South America
 * **Platyrrhines** - Taxonomic infa-order
 * Range: mexico -> argentina (tropical forests)
-* 1-25 lbs 
+* 1-25 lbs
 * Dental Formula of 2.1.3.3
 * Arboreal - live in trees
-* Prehensil tail 
+* Prehensil tail
 	* kinda like our hands and feet
 * All social, all but one are diurnal
 	* the only nocturnal one is the owl monkey
@@ -1008,7 +1008,7 @@
 		* Annie's boobs
 		* raid farmers crops just like Annie's boobs raids purple pens
 	* pygmy Marmoset
-		* Only primates to regulary have twins 
+		* Only primates to regulary have twins
 	* Howler
 		* loud af
 	* Golden Lion Tamarin
@@ -1020,14 +1020,14 @@
 * 2.1.2.3 dental formula
 * two superfamilies
 	* cercopithecoids (old world monkeys)
-	* Hominoids (apes and humans) 
+	* Hominoids (apes and humans)
 
 ## Notes 3/03
 
 ### Old World Monkeys
 * Europe, Asia, Africa
 	* tip of Iberian peninsula in Europe, Spain
-* Wide Range of Habitats 
+* Wide Range of Habitats
 * All social and diurnal
 * 2-70 lbs
 * Ischial callosities
@@ -1074,7 +1074,7 @@
 * highly sexually dimorphic
 	* males: long hair, cheek flaps, long throat sacs
 
-#### Gorillas 
+#### Gorillas
 * Central Africa
 * Largest primates, great sexual dimorphism
 * Live in one-male polygynous groups led by silverback
@@ -1086,7 +1086,7 @@
 #### Chimpanzees and Bonobos
 * closest living relatives of *homo Sapiens* (us)
 * DNA Is up to 98% identical
-* Good models for human evolution? 
+* Good models for human evolution?
 
 #### Chimpanzees
 * Central, West, East Africa
@@ -1117,13 +1117,13 @@
 * Four limbs support body
 * arboreal or terrestrial
 * Strepsirhines (some), NW/OW monkeys
-* Hand positions: 
+* Hand positions:
 	* palmigrade
 	* digitigrade
 	* knuckle walking
 		* Gorilla, Chimpanzee, bonobo
 
-#### Vertical Clinging and Leaping (VCL) 
+#### Vertical Clinging and Leaping (VCL)
 * works like it sounds!
 * Mostly Strepsirhines
 
@@ -1138,3 +1138,83 @@
 * the rest of bipeds are "behavioral" bipeds
 	* gorillas do it to look intimidating
 
+## Lecture 3/05
+
+### Chapter 7 Learning Objectives (Part 3)
+* Compare the costs and benefits of frugivores and folivores' main food sources, as well as how they compete for food
+* What does an activity budget include? How might a diurnal primate's be different from that of a nocturnal primate?
+* What's the difference between a primate's home range and its territory? Why are resources key?
+
+### Ecology
+* Study of Plants, animals, and their interactions with each other and their physical environment
+* Context for primate behavior
+
+#### *Key Factors* shaping primate evolution:
+* Finding and eating food
+* Diet and feeding competition
+* Territories and ranges
+* Predation
+
+### Finding and Eating food
+* Calories burned finding food has to be balanced with calories consumed
+* They have to eat *quality* food, just like us, can't have "junk" food
+* especially important for females
+* Herbivores:
+  * Folivores: leaves
+  * Frugivores: (fruit)
+    * Apes, all other types of Hominoids
+    * Gibbons
+  * leaves  
+    * Highly abundant
+    * Few nutrients/Calories
+    * lots of protein
+    * Protection mechanisms
+    * In order to subsist on leaves you gotta eat A LOT
+      * why gorillas eat all day
+  * Fruits
+    * Lots of nutrients/calories
+    * No protection mechanisms
+      * a tree "wants" its fruit to be eaten
+    * unpredictable availability
+      * much less abundant comparatively
+* Challenge of tropical forests'
+  * Can have 400 Varieties of fruit in 1 acre
+* Must know habitats intimately
+  * increased intelligence of primates helps them keep track of when and where there is food
+* Special adaptations to meet nutritional needs
+  * Marmosets which essentially farm trees
+  * some have bovine like extra chambers in stomachs for digestion and food processing and the like
+
+### Diet and feeding competition
+* Activity Budget: pattern of waking, eating, mating, etc. that animals engage in every 24 hours
+  * Diurnal/Nocturnal
+    * Haplorrhines = Diurnal
+    * Strepsirrhines = Both (Lemurs and lorises are nocturnal)
+    * Different wake patterns determine, what food is where, what predators are where and many other factors
+* Frugivores
+  * contest feeding competition; more hierarchical
+* Folivores
+  * scramble feeding competition; less hierarchical
+
+### Territories and Ranges
+* Home Range:
+  * area used over a long period
+  * All necessary resources
+  * primates develop a detailed mental map of their home range that includes location of resources, etc.
+* Territory: Portion of home range defended against other groups of same species
+  * food
+  * females
+* Gorilla Home ranges overlap a lot
+  * Despite all the show they aren't too violent though
+* Chimps are actively defending resources through fighting
+
+### Predation
+  * Primates as prey
+  * most predators of primates are solitary and nocturnal
+    * hard to observe/study
+  * Small-bodied primates are vulnerable
+  * Evolved behaviors in response to predators
+  * Vervet alarm calls in response to predation
+    * leopard
+    * snake
+    * eagle
