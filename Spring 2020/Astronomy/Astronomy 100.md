@@ -563,5 +563,4 @@ in science a theory is not he same as a hypothesis, rather:
 ## The Environment Cont
 * We've known about the adverse effects on the climate for a while
 * Human use of fossil fuels (e.g. oil, gas, and coal) has pumped CO2 into the air
-
-### test
+* Human influence is the dominant cause of the observed warming
