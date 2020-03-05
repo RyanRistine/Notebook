@@ -1,0 +1,8 @@
+1. chmod u+rwx newfile
+2. chmod 500 newfile
+3. chmod g+r,o+r newfile
+4. -rwxr-xr-x
+5. chmod g-x+w,o-rx newfile
+6. chmod 545 newfile
+7. -rwxrw-r--
+8. ln -s -f oldfiles/file_a file_b

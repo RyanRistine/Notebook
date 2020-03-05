@@ -1022,6 +1022,119 @@
 	* cercopithecoids (old world monkeys)
 	* Hominoids (apes and humans) 
 
+## Notes 3/03
 
+### Old World Monkeys
+* Europe, Asia, Africa
+	* tip of Iberian peninsula in Europe, Spain
+* Wide Range of Habitats 
+* All social and diurnal
+* 2-70 lbs
+* Ischial callosities
+	* "sit bones"
+	* Bare patch of thickened skin over the Ischiam, acts as almost as a cushion
+* Bilophodont molars
+	* good for eating leafy food which makes up much of their diet
+* greater range of sexual dimorphism
 
-	
+### Hominoids
+* Hylobataids: lesser apes
+* Pongids: great apes
+* hominins: members of the human family, past or present
+* extended haplorhine traits
+* Y-5 molar cusp pattern
+* Suspension: arm-hanging and swinging
+	* rotating shoulder/wrist
+	* fully-extended elbow
+		* tails not needed
+
+### Hylobatids
+* lesser apes
+	* physically smaller
+* Gibbons and Siamangs
+* Tropical forests of SE Asia
+* Very Arboreal: brachiation
+	* hand over hand swinging
+* Frugivore
+* Least sexual dimorphism of apes
+* monogamy
+
+### Pongids
+* great apes
+* Orangutans
+* Gorillas
+* Chimpanzees
+* Bonobos
+
+#### Orangutans
+* Today: Borneo and Sumatra
+* Solitary
+* varied diet
+* Arboreal
+* highly sexually dimorphic
+	* males: long hair, cheek flaps, long throat sacs
+
+#### Gorillas 
+* Central Africa
+* Largest primates, great sexual dimorphism
+* Live in one-male polygynous groups led by silverback
+* poaching
+* Mountain Gorillas: herbivores
+* Lowland gorillas: diets more varied
+* Quadruped kncukle-walkers
+
+#### Chimpanzees and Bonobos
+* closest living relatives of *homo Sapiens* (us)
+* DNA Is up to 98% identical
+* Good models for human evolution? 
+
+#### Chimpanzees
+* Central, West, East Africa
+* Mostly frugivores, some meat
+* Mostly terrestrial
+* Multi-maly polygyny
+	* fission-fusion
+		* Sleeps together at night (fusion), ~60-120
+		* seperates during day (fission) - still in small groups, up to 10
+
+#### Bonobos
+* Central Africa
+* "pygmy chimps": same genus, different species
+* Least sexual dimorphism of great apes
+* More consistent food supply
+* Larger coial groups, female-dominated
+* Multi-male polygyny
+	* fission-fusion
+* sexual behavior "they have sex, a lot, with everybody, all the time"
+
+### Four major patterns of primate locomotion
+* Quadrupedalism
+* Vertical clinging and leaping (VCL)
+* Suspension
+* Bipedalism
+
+#### Quadrupedalism
+* Four limbs support body
+* arboreal or terrestrial
+* Strepsirhines (some), NW/OW monkeys
+* Hand positions: 
+	* palmigrade
+	* digitigrade
+	* knuckle walking
+		* Gorilla, Chimpanzee, bonobo
+
+#### Vertical Clinging and Leaping (VCL) 
+* works like it sounds!
+* Mostly Strepsirhines
+
+#### Suspension
+* Arm-hanging and swinging
+* Hylobatids: Brachiation
+* pongids: slow-climbing
+
+#### Bidepalism
+* Weiht fully supported by hind limbs
+* only full time bipeds: humans
+* the rest of bipeds are "behavioral" bipeds
+	* gorillas do it to look intimidating
+
