@@ -560,7 +560,19 @@ in science a theory is not he same as a hypothesis, rather:
 
 ## Lecture 3/05
 
-## The Environment Cont
+### The Environment Cont
 * We've known about the adverse effects on the climate for a while
 * Human use of fossil fuels (e.g. oil, gas, and coal) has pumped CO2 into the air
 * Human influence is the dominant cause of the observed warming
+
+### Three widely accepted scientific understandings in climate Science
+* Carbon dioxide traps heat and exerts major influence on Earth's temperature when its concentration increases or decreases: upheld sine the late 19th century
+* Warming of the climate is definitely seen, and many of the observed changes unprecedented over decades to thousands of years.
+* Human influence has been the dominant cause of the observed warming since the mid-20th century.
+
+### What is currently not settled in climate science (as of Today)
+* Significant advances have been made on understanding how climate change influences the scale of what matters most to people (e.g. my local rive floodplain, my farm field, the town where my children live, the coastal road along my commute to work,) and predictions from this understanding are still evolving.
+* But, incredible progress has been made at modeling and predicting the effects of climate change. See a talk in our own "What Physicists Do" series:
+  * EXTREME WEATHER IN A CHANGING CLIMATE
+    * https://youtu.be/4c8Hv0p0ePA
+    
