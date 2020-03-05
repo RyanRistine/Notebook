@@ -1224,7 +1224,7 @@
 * What are the costs and benefits for primates of living in social groups?
 * Give examples of functional and symbolic aspects of primate culture.
 * What purpose foes grooming serve in primate social groups?
-* Compare solitary, monogamous, and polyandrous social systems
+* Compare solitary, monogamous, multi-male polygynous, and polyandrous social systems
 * Why if infanticide practice in one-male polygynous groups?
 * in which social system are dominance hierarchies usually found? How are these maintained? Why is estrus most strongly marked here?
 * What are chimpanzees' and bonobos' social systems less stable than those of other primate species?
@@ -1232,3 +1232,132 @@
 * Which primatologist pioneered the technique of long-term field study?
 
 **Fargo wildin**
+
+### Primate Sociality
+* Almost all haplorrhines, a few strepsirrhines
+  * Orangutans are the haplorrhines that aren't
+* Extended ontogeny: time to learn how to belong to a social group, via observational learning
+* Costs and benefits of group living
+### Costs and Benefits to sociality
+* Access to mates
+* Finding food
+* Avoiding Predators
+* Communication
+* Culture
+
+### Access to mates
+* Benefit: access to multiple potential mates
+* Cost: Increased male-male competition and female choice
+* Sexual dimorphism highest in polygynous groups
+  * groups where males compete more for female selection
+    * Gorillas are like this
+      * They got big old brain bones to look bigger
+
+### Finding food
+* Benefit: capitalize on others' food-finding abilities
+* cost: competition
+  * shit is FIERCE
+    * some mothers wont even help their own children once they've been weened with no remorse
+
+### Avoiding Predators
+* Benefit: Capitalize on others' predator-detection abilities
+  * Some species even post "sentries" as a warning system
+* Safety in numbers
+  * mob together to look bigger to scare predators
+  * in a large group you proportionally have a lower chance of being the one the predator chooses to kill
+* Cost: large group is easier to spot
+
+### Communication
+* Shared repertoire of cues
+  * a "language"
+* Facial expression
+  * evolution: don't have hair on face bc facial expression is so essential to communication
+  * understood by all members of a social group
+* "Fear grin"
+  * When primates are afraid they pull their lips back to show gums and teeth, if they look happy they're scared
+* "Play face"
+  * cover upper teeth with lips and have open mouth
+* Hominin Evolution
+
+### Culture
+* Learned behaviors and traditions
+* Spread by *observational learning*
+  *
+* *functional* and *symbolic* elements
+
+#### Functional Culture: Tool use
+* most prominent example of culture in primates
+* Probes
+  * a prepared stick used to fish for termites/ants
+* Hammers
+  * Capuchin monkeys using rocks as hammers to get into different types of nuts, or using them to make a noise to warn of predators
+* Sponges
+  * chimps wad up leaves to soak up water and drink from the leaves
+* branches
+  * can be used for many things, used as a spear to fish, or to hunt
+* some tool use has been learned from humans
+
+#### Symbolic Culture: Ritualized Behaviors
+* Japanese macaque washing sweet potatoes
+* Chimpanzee grooming postures
+  * varies between different groups of the same species
+
+### Affiliative Behavior: Grooming
+* group cohesion
+* acknowledging authority
+* individual submission
+* Cleaning, comfort
+* equal opportunity
+* Grooming
+  * found in all primate species
+  * one standard affiliative behavior
+  * almost all individuals in a group will groom each other
+    * Higher ranking members will still groom lower ranking individuals
+    * everyone grooms everyone basically
+  * promotes social living
+
+### Reproductive Asymmetry
+* Females are the limited commodity competed over by males
+* Males distribute themselves to maximize access to females
+* Sex-based distributions across home range influence the form of social systems.
+
+### Primate Social Systems
+* Grouping pattern in which a species lives
+  * Size and composition
+* Solitary
+* monogamy
+* Polygyny
+ * one-male
+ * multimale
+* Polyandry
+* not always super rigid, some variation and fluidity within species
+
+#### Social System: Solitary
+* Males' and Females' territories overlap
+* Scent-markings and warning calls
+* low sexual dimorphism
+* only stable groups are mothers + offspring
+* males and females only interact to mate
+  * Males try to maintain exclusive access to "their" mate
+
+#### Social System: monogamy
+* Long-term pair bond
+* Female allows male to live in her territory
+  * Beneficial to females
+* Low sexual dimorphism
+* Males are very involved in raising offspring
+  * in some cases, dad is even the primary caregiver
+* monkeys can cheat
+
+#### Social system: polygyny
+* 1+ males, multiple Females
+* High sexual dimorphism
+* One-male polygyny
+* multimale polygyny
+  * fission-fusion polygyny
+
+##### Polygyandry
+* Multi-male, multi-female
+* everybody mates with everybody
+  * Dr. Boutin had to try really hard not to say "orgy"
+  
