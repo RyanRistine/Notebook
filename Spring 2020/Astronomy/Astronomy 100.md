@@ -164,11 +164,11 @@ in science a theory is not he same as a hypothesis, rather:
   scientific truth
 
   |Sign of Pseudo-Science   |Example                                                 |
-  | ----------------------- | ------------------------------------------------------ |	
+  | ----------------------- | ------------------------------------------------------ |
   |Exaggerated Claims       |"Three simple steps will change your love life forever!"|
 ## Lecture 2/6
 
-### Moon Topography 
+### Moon Topography
 * Highlands:
 	* More Craters, older (~4.4 Billion Years)
 * Mare:
@@ -181,9 +181,9 @@ in science a theory is not he same as a hypothesis, rather:
 * Copernicus (1473-1543)
 	* Proposed sun-centered model
 	* Used model to determine layout of solar system, measured distances in AU, Astonomical Units: the distance between the Sun and the Earth
-		* Model wasn't very accuracte in terms of predicting planetary positions 
+		* Model wasn't very accuracte in terms of predicting planetary positions
 * Tycho Brahe (1546-1601)
-	* Complied the most accurate naked eye measurements ever amde of planetary positions at the observatory he built 
+	* Complied the most accurate naked eye measurements ever amde of planetary positions at the observatory he built
 	* Hired Kepler, who used Tycho's obsercations to discover the truth about planetary motion
 * Johannes Kepler (1571-1630)
 	* First tried to match Tycho's observations with circular orbit
@@ -192,7 +192,7 @@ in science a theory is not he same as a hypothesis, rather:
 * 1. The orbit of each planet around the sun is an ellipse with the Sun at one focus
 	* very nearly circular but not quite
 * 2. As a planet moves around its orbit it sweeps out equal areas in equal times
-* 3. More distant planets orbit the Sun at slower average speeds obeying the relationship p^2 = a^3 
+* 3. More distant planets orbit the Sun at slower average speeds obeying the relationship p^2 = a^3
 	* p = orbital period in years
 	* a - avg. distance in AU
 	* Planets closer to the sun travel faster than those farther from the sun
@@ -202,17 +202,17 @@ in science a theory is not he same as a hypothesis, rather:
 		* Key objections were
 			* 1. Earth could not be moving because objects in air would be "left behind"
 			* 2. Non-circular orbits are not "perfect" as heavens should be
-			* 3. All objects orbit the Earth, the "just because" argument 
-		* Got in lots of legal trouble from angrry conservative catholics because of his claims 
+			* 3. All objects orbit the Earth, the "just because" argument
+		* Got in lots of legal trouble from angrry conservative catholics because of his claims
 	* Overcoming the first objection
 		* Galileos experiments showed that objects in air would stay with a moving Earth
-			* Aristotle thought all objexts naturally came to rest 
+			* Aristotle thought all objexts naturally came to rest
 			* Galileo showed they sat in motion (wow like Newton's law)
-	* Overcoming the second objection 
-		* Proved that not all cellestial bodies are perfect, for example the moon is really not perfect, craters etc. 
+	* Overcoming the second objection
+		* Proved that not all cellestial bodies are perfect, for example the moon is really not perfect, craters etc.
 	* Overcoming the third objection
-		* proved that not all objects orbited Earth by observing the moons of Jupiter 
-	* Catholic church was really mad with him so they put him under house arrest for not recanting his claims 
+		* proved that not all objects orbited Earth by observing the moons of Jupiter
+	* Catholic church was really mad with him so they put him under house arrest for not recanting his claims
 		* they finally unbanned his book in 1824 and didn't fully vindicate him until 1992
 
 ## Lecture 2/11
@@ -220,22 +220,22 @@ in science a theory is not he same as a hypothesis, rather:
 ### Laws of Motion: Understanding Motion, Energy, and Gravity
 
 #### How do we describe motion?
-* Speed: Rate at which object moves 
+* Speed: Rate at which object moves
 	* Speed = distance/time
 * Velocity: Combination of speed and direction
-	* 10 m/s, due east 
+	* 10 m/s, due east
 * Acceleration: Any change in velocity unit of speed/time (m/s<sup>2</sup>)
 * The Acceleration of Gravity (g)
 	* All falling objects accelerate at the same rate (not counting friction of air resistance)
 	* On Earth G = 9.8m/s<sup>2</sup> speed increases 10m/s with each second of falling.
-#### Momentum and Force 
+#### Momentum and Force
 * Momentum = mass * velocity
-* A **net force** changes momentum, which generally means an acceleration (change in velocity) 
+* A **net force** changes momentum, which generally means an acceleration (change in velocity)
 	* A force is uaully a change in direction and/or speed  
 * How is mass different than weight
- 
+
 | Mass  | The Amount of matter in an object   |
-| ----- | ----------------------------------- | 
+| ----- | ----------------------------------- |
 | Weight| The *force* that acts upon an object|
 * You are weightless in free-fall
 * Why are astronauts weightless in space?
@@ -245,13 +245,13 @@ in science a theory is not he same as a hypothesis, rather:
 * Astronauts and other objects inside spacecraft don't fall to the floow of the spacecraft
 * The astronauts are accelerating towards Earth, but they are not accelerating towards the floor of the spacecraft
 #### How did Newton change our view of the universe?
-* Isaac Newton (1642-1727) 
+* Isaac Newton (1642-1727)
 * Realized the same physical laws that operate on Eath also operate in the heavens
 	* One *Universe*
 * Discovered laws of motion and gravity
-* Much more: Experiments with light; first reflecting telescope, calculus... 
+* Much more: Experiments with light; first reflecting telescope, calculus...
 #### Newton's 3 Laws of Motion
-* **Newton's First law of motion**: An object moves at a constant velocity unless a net force acts to change its speed or direction 
+* **Newton's First law of motion**: An object moves at a constant velocity unless a net force acts to change its speed or direction
 	* *"An object in motion stays in motion, unless acted on by an outside force"*
 * **Newton's Second law of motion**: Force = mass * acceleration
 * **Newton's Third law of motion**: For every force, there is always an *equal and opposite* reaction force
@@ -278,14 +278,14 @@ in science a theory is not he same as a hypothesis, rather:
 	* Waves contribute to the weird "spikes" coming off lights at night and stuff
 * Particles of light are called photons
 * A wave is a pattern of motion that can carry energy without carrying matter along with it
-* Wavelength is the distance between two wave peaks 
+* Wavelength is the distance between two wave peaks
 * Frequency is the number of times per second that a wave vibrates up and down
 * wavelength * frequency = speed of light
 * if energy is higher frequency is higher, wavelength is shorter
 * we measure the ripples in time and space not from light, but from black holes merging across the universe
 
 * Electromagnetic Spectrum/Radiation - Short to Long wavelength
-	* Gamma Rays - highest energy 
+	* Gamma Rays - highest energy
 	* X-rays
 	* Ultraviolet
 	* Visible Light
@@ -295,7 +295,7 @@ in science a theory is not he same as a hypothesis, rather:
 		* The first 1/3 or so of radio is part of "microwaves"
 ### What is the structure of matter?
 * Going from "large" to smaller
-	* Atom 
+	* Atom
 		* Electron Cloud
 			* Nucleus
 			* Protons + neutrons
@@ -318,35 +318,35 @@ in science a theory is not he same as a hypothesis, rather:
 ## Lecture 2/17
 
 ### Astronomy Picture of the Day
-* Betelgeuse is changing 
+* Betelgeuse is changing
 	* Getting Dimmer
 
 ### More light stuff
 
 #### Emission Lines
 * Each type of ato has a unique set of energy levels
-* each transition corresponds to a unique hoton enrgy, frequency, and wavelength #### Maternal-fetal incompatibility 
+* each transition corresponds to a unique hoton enrgy, frequency, and wavelength #### Maternal-fetal incompatibility
 
 #### Absorption Lines
 * Because those atoms can absorb photons with those same energies, upward transitions produce a pattern of absorption lines at the same wavelengths
 
 #### Atoms and Light
 * Each type of atom has a unique spectral fingerprint
-* Observing the fingerprints in a spectrum tells us which kinds of atoms are present 
-* Hotter object emit more light at all frequencies per unit area 
+* Observing the fingerprints in a spectrum tells us which kinds of atoms are present
+* Hotter object emit more light at all frequencies per unit area
 	* Hotter = Brighter
-* Hotter objects emit photons with a higher average energy. 
+* Hotter objects emit photons with a higher average energy.
 	* Hotter = Bluer
 	* Still giving off more red photons
 #### How do we know what we know?
 * The answer, Light! (electromagnetic Radiation)
 * What can we determine with light?
 	* Luminosity (brightness)
-	* Temperature 
+	* Temperature
 	* Composition
 	* And much more, (later in the semester) such as ...
 	* Speed (Doppler Shift)
-	* Rotation Rate (Doppler Shift) 
+	* Rotation Rate (Doppler Shift)
 	* Position, distance, mass, age ...
 
 ### Chapter 6
@@ -361,14 +361,14 @@ in science a theory is not he same as a hypothesis, rather:
 
 ### What are the tow basic designs of telescopes?
 * **Refracting telescope**: Focuses light with lenses
-* **Reflecting telescope**: Focuses light with mirrors 
+* **Reflecting telescope**: Focuses light with mirrors
 
 #### Refracting Telescope
 * Refractiing telescopes need to be very long, with large, heavy lenses
 
 #### Reflecting Telescope
-* Reflecting telescopes can have much greater diameters 
-* Most modern telescopes are reflectors 
+* Reflecting telescopes can have much greater diameters
+* Most modern telescopes are reflectors
 	* state of the art is ~the size of seating area in Darwin-03
 ### Recording Images
 * Digital camers detect light with ***Charge-couple devices***
@@ -382,13 +382,13 @@ in science a theory is not he same as a hypothesis, rather:
 	* Dark (far from city lights)
 	* Dry (few cloudy nights)  
 
-### Twinkling and Turbulence 
+### Twinkling and Turbulence
 * Turbulent air flow in Eath's atmosphere distors our view, causing stars to appear to twinkle
 ### Adapative Optics
 * Rapidly changing the shape of a telescopes mirror compensates for some of the effects of turbulence
 ## Lecture 2/20
 ### Transmission in Atmosphere
-* Only radio and visible light pass easily through Earth's atmosphere 
+* Only radio and visible light pass easily through Earth's atmosphere
 * we need telescopes in space to observe other forms
 * Waves in terms of energy:
 	* Gamma and X-Ray = high energy
@@ -404,17 +404,17 @@ in science a theory is not he same as a hypothesis, rather:
 * Newton's laws of gravity and motion showed that the relationship between the orbital period and average orbital dsistance of a system tells us the total mass of the system
 * We can "*weigh*" things across the Universe if we can see their orbits
 
-### The Formation of Stars and Planets 
+### The Formation of Stars and Planets
 * Infared light can get through gas clouds
-	* Same phenomenon that turns sunsets red 
-* Our solar system is only a tiny art of the universe 
-* Theories of it sorigin must explain the contents: planets, moons, asteroids, etc. 
-#### The Solar Nebula 
+	* Same phenomenon that turns sunsets red
+* Our solar system is only a tiny art of the universe
+* Theories of it sorigin must explain the contents: planets, moons, asteroids, etc.
+#### The Solar Nebula
 * The Solar System formed out of a nebula which collapsed under its own gravity.
 * Observational evidence:
 	* We observer stars in the process of forming today
 	* they are always found within interstellar clouds of gas
-* **Solar Nebula** - Name given to the cloud of gas from which our own Solar Sytem formed 
+* **Solar Nebula** - Name given to the cloud of gas from which our own Solar Sytem formed
 * **Molecular cloud** - name given to the densest and ocolset clouds of gas in the interstellar mediu the material between the stars
 
 ### Gravitational Collapse
@@ -424,26 +424,26 @@ in science a theory is not he same as a hypothesis, rather:
 * It was given a "push" by some event
 	* Perhaps the shock wave from a nearby supernova
 * As the nebula shrank, gravity increased, causing collapse.
-* As the nebula "falls" inward, gravitational potential energy is converted to heat 
+* As the nebula "falls" inward, gravitational potential energy is converted to heat
 	* conservation of energy
-* As the nebula's radius decreases, it rotates faster 
+* As the nebula's radius decreases, it rotates faster
 	* conservation of Angular Momentum
 
 #### Conservation of Angular Momentum
 * angular momentum = mass * Velocity * radius
-* The angular momentum of an object cannot change unless an external twisting force (torque) is acting on it 
+* The angular momentum of an object cannot change unless an external twisting force (torque) is acting on it
 * Angular momentum conservation explains why objext rotate faster as they shrink in radius
-	* For example figure skaters 
+	* For example figure skaters
 
 ## Lecture 2/25
 ### Conservation of Angular Momentum cont.
 * The angular momentum of a system will be conserved.
-* Result: a spinning sphere will become a flattened, rotating disk. 
-* young stars are surrounded by rotating diss of gas and dust 
+* Result: a spinning sphere will become a flattened, rotating disk.
+* young stars are surrounded by rotating diss of gas and dust
 * The Sun would also have been surorunded.
-* The rest of the Solar System formed from that rotating *protoplanetary disk* 
-* The protostar's energy source is gravitational energy. 
-* Core's temperature rises as it sinks. 
+* The rest of the Solar System formed from that rotating *protoplanetary disk*
+* The protostar's energy source is gravitational energy.
+* Core's temperature rises as it sinks.
 * Hydrogen begins turning into helium in the core
 * It becomes a star
 
@@ -456,44 +456,44 @@ in science a theory is not he same as a hypothesis, rather:
 
 ### Extra-Solar Planets
 * They likely exist
-* Other stars are distant suns 
+* Other stars are distant suns
 * Successful theory or formation of our solar system suggests that planetary systems are a natural consequence of star formation
 * Why didn't you learn about extrasolar planets in elementary school
 	* They're hard to detect
 #### Detecting planets is difficult
 * A sun like star is a bilion times brighter than the reflected light from a jupiter-like planet
 	* Finding a planet is like spotting a moth next to a spotlight
-* Angular separation of star and planet is very small 
+* Angular separation of star and planet is very small
 	* stars are so distant that the light from the planet is basically on top of the light from the star
 * But over 3850 extrasolar planets have een found in the last fifteen years!
 
 #### How can extrasolar planets be detected?
-* Doppler Shift 
+* Doppler Shift
 	* Detect motion of star through its light spectrum, as the star "wobbles" due to the orbiting planet
-* Transit method 
+* Transit method
 	* watch a star's brightness drop when it is parially blocked by the orbiting planet
 * Direct Detection
 	* image the plane titself, by making very sharp images and blocking th light from the star
 
 #### The Doppler Shift Technique
 * Depends on:
-	* Distance between star and planet 
+	* Distance between star and planet
 	* Mass of planet
-* Planet's tug on star causes starlight to be Doppler Shifted 
+* Planet's tug on star causes starlight to be Doppler Shifted
 * Same thing (kinda) as a cop using a radar gun
-* because planets have gravitational force (although relatively small compared to the star) that gravity makes stars slightly wobble 
+* because planets have gravitational force (although relatively small compared to the star) that gravity makes stars slightly wobble
 	* as it moves, causes waves to "pile up" or blue shift, and vice versa-red shift
 #### Measuring Velocity
 * Movement away from us shifts the light to longer wavelengths = redshift
 * movement towards us shifte the light to shorter wavelengths = blueshift
 
-#### Doppler Limitations 
+#### Doppler Limitations
 * Easier to detect massive planets close to their star
 	* most extrasolar planets discovered this way are more massive than Jupiter, but close to thei star than Earth
 	* Massive -> Large Doppler shift
 	* Close -> Short orbital periods, seen after a short time
 * does this mean that there are no small extrasolor orbiting far from their stars?
-	* No, they are harder to detect, but scientists are developing techniques that will look for smaller and smaller planets 
+	* No, they are harder to detect, but scientists are developing techniques that will look for smaller and smaller planets
 * referred to as "*Hot Jupiters*"
 	* because they hot and big
 
@@ -508,12 +508,12 @@ in science a theory is not he same as a hypothesis, rather:
 * TRAPPIST-1 is an Ultracool Dwarf Star much smaller than our Sun
 	* Astronomers have noticed dips in TRAPPIST-1's brightness which suggests there are planets around the size of our Earth int its system
 	* Some of TRAPPIST's planets are too hot, some are too cold, but three might be just right to have liquid water, a building block of life
-		* This region arou na star where liquid water coul dexist is known as the *habitable zone* 
+		* This region arou na star where liquid water coul dexist is known as the *habitable zone*
 ### Direct Detection
 * Taking pictures of planets instead of detecting them via dips in the light of stars
 * Difficult to find earthlike planets using this technique
 ### Gemini Planet Imager
-* GPI was built for one of the world's largest telescopes in order to detect the light from planets orbiting other stars! 
+* GPI was built for one of the world's largest telescopes in order to detect the light from planets orbiting other stars!
 	* Complex aaptive optics to make extremely sharp images
 ### Planetary Atmospheres
 #### What is an Atmosphere?
@@ -524,7 +524,7 @@ in science a theory is not he same as a hypothesis, rather:
 * Atmospheres of terrestrial worlds and satellites of jovian planets are tiny fraction of total mass
 * Atmospheres interact with surface and interior
 #### Atmosphere of MArs
-* Mostly CO2 
+* Mostly CO2
 * Surface pressure is low
 * colder than Earth
 #### Atmosphere of Venus
@@ -536,26 +536,30 @@ in science a theory is not he same as a hypothesis, rather:
 #### Earth's Atmosphere
 * Mostly N2 and O2 atmosphere
 * lots of water
-	* all phases of water are common on Earth 
+	* all phases of water are common on Earth
 		* liquid
 		* gaseous
 		* solid
 ### Astronomy's Important Discovery
 * Sunlight warms the planets
 * Venus is hotter than Mercury
-	* Venus has a Carbon Dioxide "heat blanket" that mkaes it warmer than it would be without it 
-* Earth has a Varbon Dioxide in the atmosphere
+	* Venus has a Carbon Dioxide "heat blanket" that makes it warmer than it would be without it
+* Earth has a Carbon Dioxide in the atmosphere
 	* Humans have been putting a lot more Carbon Dioxide in the atmosphere
-* As scientifically literare stewards of the Earth, can we understand what is happening and what we can do about it? 
+* As scientifically literature stewards of the Earth, can we understand what is happening and what we can do about it?
 ### The Environment
 * The environment on the Earth depends on the delicate balance between light coming in from the Sun and light escaping back into space.
-	* in visbile light
-	* out infared light
-#### Greenhouse Effect 
+	* in visible light
+	* out infrared light
+#### Greenhouse Effect
 * Atmosphere makes planet's surface hotter
-* Atmosphere transmits visible light, but absorbs infared light
-* planet gets warmer until it emits into space enough infared light to balance the light it receives from the Sun
-* Water, Carbon Dioxide, and Methane are effective greenho gases
-* think of the Carbon Dioxide we are talkig about as a "Heat Blanket" that traps in heat and makes the planet warmer.
+* Atmosphere transmits visible light, but absorbs infrared light
+* planet gets warmer until it emits into space enough infrared light to balance the light it receives from the Sun
+* Water, Carbon Dioxide, and Methane are effective greenhouse gases
+* think of the Carbon Dioxide we are talking about as a "Heat Blanket" that traps in heat and makes the planet warmer.
 
+## Lecture 3/05
 
+## The Environment Cont
+* We've known about the adverse effects on the climate for a while
+* uman use of fossil fuels (e.g. oil, gas, and coal) has pumped CO2 into the air
