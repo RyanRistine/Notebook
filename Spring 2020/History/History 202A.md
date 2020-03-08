@@ -301,5 +301,3 @@
 			* some rebel forces became so powerful they could take on the ming imperial army
 				* Li Zicheng, a shepered, led an army of 250k strong that fucked shit up, took beijing
 				* my man Zhu Yijung hung himself
-
-####
