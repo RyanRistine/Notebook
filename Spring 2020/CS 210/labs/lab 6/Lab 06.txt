@@ -1,2 +1,7 @@
 1. cat {foo,bar} >> smallest.txt | sort smallest.txt | uniq < smallest.txt | head -n 4 < smallest.txt
-2. find -1R /home 2> /dev/null 
+2. ls -1R /home 2> /dev/null
+3. ls -1R /home/ 2> /dev/null | grep -e '\.png'
+4. ls -1R /home/ 2> /dev/null | grep -e '\.png' | sort
+5. ls -1R /home/ 2> /dev/null | grep -e '\.png' | sort | uniq
+6. ls -1R /home/ 2> /dev/null | grep -e '\.png' | sort | uniq | wc -l
+7. ls -1R /home/ 2> /dev/null | grep -e '\.png' | sort | uniq > png_list.out && wc -l png_list.out
