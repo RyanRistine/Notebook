@@ -1353,11 +1353,84 @@
 * 1+ males, multiple Females
 * High sexual dimorphism
 * One-male polygyny
+  * One male, multiple Females
+  * All male "bachelor" groups
+    * groups of unsuccessful males
+    * intense competition
+  * infanticide
+    * the killing of infants
+    * often occurs when a new male invades and takes over a group
+      * kills offspring of previous resident male
 * multimale polygyny
+  * Dominance hierarchies: males compete for priority of access to females
+    * males have intense competition for mating opportunities
+  * complex social interactions
+    * deception, beta distracts alpha so that beta can mate
   * fission-fusion polygyny
+    * chimps and bonobos
+    * subtype of multi-male polygyny
+    * temporary 'communities'
+      * only stable grouping: mother-offspring pair
+    * Males stay in birth community, females leave at sexual maturity
+      * Females reach maturity around age 12
+#### Polyandry
+* One female, multiple males (rare!)
+* marmosets and tamarins
+* Males bond together and help females rear offspring
+  * one female, multiple males, take care of children
+* low sexual Dimorphism
+* regularly have twins
+  * twins can come from different fathers
+    * fathers don't know which is theirs so they stick around and take care of both
+* females are larger than males
 
-##### Polygyandry
+#### Polygynandry
 * Multi-male, multi-female
 * everybody mates with everybody
-  * Dr. Boutin had to try really hard not to say "orgy"
-  
+  * Dr. Boutin had to try really hard not to say "orgy", never mind
+    * "not a full on orgy"
+
+## Lecture 3/10
+
+#### Male reproductive strategies
+* Ability to *dominate* other males in their own social group
+* Stable relationships: dominance hierarchy
+* Achieving dominance: aggression
+* Maintaining dominance: threat displays
+
+#### Female Reproductive Strategies
+* Benefits of Dominance
+  * Females have their own dominance hierarchy  
+    * Most fertile females seem to be the most dominant
+    * high ranking females interact with high ranking males
+  * Estrus: period of sexual receptivity (ovulation)
+    * Physical changes advertise fertility
+    * Prominence depends on social system
+    * Adaptive for females
+
+### Primatology
+* Kinda Created by Dr. Jane Goodall, DBE
+  * or at least popularized it some, developed lots of advancements and stuff
+  * started work at Gombe National Park in Tanzania, Lake Tanganyika
+    * began in July 1960
+  * Habituated primates to her presence
+    * was able to make a lot of her discoveries because of this
+* Goodall's observation technique
+   * un-nesting
+   * shared in daily activities
+    * would eat the same as them and participate in activities with them
+* Tool use 
+  * termite extraction
+  * ant "fishing"
+  * Sponges for water
+  * aggressive behavior
+  * hammers and stuff
+  * offspring learn from parents
+  * discovered by goodall
+* Other Goodall discoveries
+  * they were violent
+  * hunting activities
+  * will kill other chimps in conflict
+    * infanticide is a thing
+      * sometimes females kill babies and then eat them
+  * Close familial bonds
