@@ -125,7 +125,7 @@
 ### Production
 * increases and communities spring up around creating commodities for the consumption of others
 
-### Growth of Welath
+### Growth of Wealth
 * As wealth grows in Europe it increases potential for investment
 * First stock market in amsterdam in 1602
 	* companies themselves become commodities
