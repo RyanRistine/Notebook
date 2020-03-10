@@ -1419,14 +1419,14 @@
    * un-nesting
    * shared in daily activities
     * would eat the same as them and participate in activities with them
-* Tool use 
+* Tool use
   * termite extraction
   * ant "fishing"
   * Sponges for water
   * aggressive behavior
   * hammers and stuff
   * offspring learn from parents
-  * discovered by goodall
+  * discovered by Goodall
 * Other Goodall discoveries
   * they were violent
   * hunting activities
