@@ -47,7 +47,7 @@
 
 * armed trading - mafia style, threatening peeps unless they trade with you
 
-* Barbarians - non roman warriors, specifically used to refer to mongols
+* Barbarians - non roman warriors, specifically used to refer to Mongols
 
 * black death is an example of historical conjuncture, 50 million dead worldwide, 20 million in Europe, began in china
 
