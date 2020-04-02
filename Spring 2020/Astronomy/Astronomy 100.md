@@ -592,7 +592,11 @@ in science a theory is not he same as a hypothesis, rather:
 * Encourage Community action
   * Public Transportation
   * Renewable energy
-* Influence U.S. Action 
+* Influence U.S. Action
   * Be an informed and active citizen
   * Hold our leadership accountable
   * Build a clean energy economy
+
+## Lecture 3/24
+* Syllabus is changing
+* Watch canvas for assignments and all that jazz
