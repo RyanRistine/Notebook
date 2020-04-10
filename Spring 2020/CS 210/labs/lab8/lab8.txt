@@ -1,0 +1,8 @@
+1. sed 's/:/\t/g' /etc/passwd | cut -f 5
+2. sed -e 's/\[/(/g' -e 's/\]/)/g' bad.py
+3. sed -n '100,200p' alongfile.txt.py
+4. tail -n 100 alongfile.txt
+5. every four characters, no matter what is at the fourth character, a space is
+inserted, this is done globally (for every occurrence) until the end of the last
+line
+6. awk '{print NR, #0}'
